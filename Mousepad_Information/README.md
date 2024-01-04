@@ -14,7 +14,7 @@ Mousepads come in various types, each offering different characteristics that ca
 
 - **Sizes:** Cloth mousepads come in various sizes, ranging from small to extra-large. Consider the available space on your desk and your preferred mouse movement range when choosing the size.
 
-## Hard Surface Mousepads
+## Hard Surface Mousepads (Including Glass)
 
 - **Speed:** Hard surface mousepads usually offer a faster glide due to their smooth and low-friction surface. They allow for quick cursor movements and are often preferred by gamers.
 
