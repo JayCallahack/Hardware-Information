@@ -39,6 +39,7 @@ For more nuanced information about switches, click [here](./Keyboard_Switches_In
 * [Lubing Switches](https://www.youtube.com/watch?v=b1acqEoW8ws)
 * [Custom Frankenswiches](https://www.youtube.com/watch?v=jU7TDvSgmI4)
 
+
 # **Budget Options (Less Then $100):**
 
 |                 **Full-Sized:**                 |                    **TKL:**                    |                                                                                   **Compact:**                                                                                   |                    **60%:**                    |                                         **Split: _Less Then $150_**                                        |
