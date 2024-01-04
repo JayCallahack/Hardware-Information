@@ -1,5 +1,5 @@
 ![Alt text](info.png) 
-# Here you will get access to a bunch of information of all types of peripherals.
+# Here you will get access to a bunch of in depth information of peripherals.
 ** ** 
 ## [Keyboard Information](./Keyboard_Information/)
 ** ** 
