@@ -1,3 +1,6 @@
+> Remember, to save more on PC parts, look through, Cregs List, Kijiji, Ebay, Facebook Marketplace, and other online markets to find cheaper used parts. All the parts down below are chosen to work specifically with the chosen motherboard.
+
+
 # -$500 PC?
 
 |              |                                                                                                  Base                                                                                                 |                                                                                                 Upgraded                                                                                                |                                                                                                                    Best                                                                                                                    |                                                         |
