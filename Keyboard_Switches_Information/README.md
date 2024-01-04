@@ -56,10 +56,10 @@ Properly lubing a switch involves disassembling it, applying the lube to the nec
 
 ## The Custom Mechanical Keyboard Community
 
->>> The world of custom mechanical keyboards is a vast and passionate community. Enthusiasts experiment with different lubes, switch combinations, and modifications to create unique typing experiences. The community thrives on sharing knowledge, discussing sound profiles, and developing new techniques to achieve the perfect keyboard setup. I hope that this place can be a part of this community, not just to share nowledge, but to also bring people that may not have a clue about what they can actually do with keyboards and switches, and give them the oprtunity to enjoy even the littler things in life, well, depending on how much you're using a kayboard ;)
-
-Whether you're looking to improve smoothness, reduce noise, or alter the sound profile of your keyboard switches, lubing is a fascinating aspect of customization that allows you to fine-tune your typing experience to your personal preferences.
-
-Remember, the process of lubing can be time-consuming and requires patience, a good working posture, attention to detail, and good lighting. Take your time, experiment, and enjoy the journey of creating your perfect custom mechanical keyboard setup.
-
-*Note: Lubing switches may void the warranty of your keyboard. Proceed with caution and at your own risk.*
+> The world of custom mechanical keyboards is a vast and passionate community. Enthusiasts experiment with different lubes, switch combinations, and modifications to create unique typing experiences. The community thrives on sharing knowledge, discussing sound profiles, and developing new techniques to achieve the perfect keyboard setup. I hope that this place can be a part of this community, not just to share nowledge, but to also bring people that may not have a clue about what they can actually do with keyboards and switches, and give them the oprtunity to enjoy even the littler things in life, well, depending on how much you're using a kayboard ;)
+> 
+> Whether you're looking to improve smoothness, reduce noise, or alter the sound profile of your keyboard switches, lubing is a fascinating aspect of customization that allows you to fine-tune your typing experience to your personal preferences.
+> 
+> Remember, the process of lubing can be time-consuming and requires patience, a good working posture, attention to detail, and good lighting. Take your time, experiment, and enjoy the journey of creating your perfect custom mechanical keyboard setup.
+> 
+> *Note: Lubing switches may void the warranty of your keyboard. Proceed with caution and at your own risk.*
