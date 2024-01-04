@@ -7,3 +7,5 @@
 ** ** 
 ## [Mousepad Information](./Mousepad_Information/)
 ** ** 
+## [Switches and Lubing](./Keyboard_Switches_Information/)
+** ** 
