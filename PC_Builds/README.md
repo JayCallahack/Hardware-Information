@@ -11,5 +11,8 @@
 |      SSD     |                                                            [Silicon Power A55 256GB SSD](https://www.silicon-power.com/web/product-ace_a55)                                                           |                                                                    [Crucial MX500](https://www.crucial.com/ssd/mx500/ct1000mx500ssd1)                                                                   |                                                          [980 PRO 2TB](MZ-V8P2T0B)](https://www.samsung.com/ca/memory-storage/nvme-ssd/980-pro-2tb-nvme-pcie-gen-4-mz-v8p2t0b-am/)                                                         |                                                         |
 |    Cooling   |                                     [Intel Stock Cooler](https://www.intel.com/content/www/us/en/support/articles/000089190/processors/intel-core-processors.html)                                    |                                                [Cooler Master Hyper 212](https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-black/#!)                                               | [Corsair H100i RGB Platinum. (Watercool)](https://www.corsair.com/us/en/p/refurb-cpu-coolers/cw-9060039-ww-rf/corsair-icue-h115i-rgb-pro-xt-280mm-radiator-dual-140mm-pwm-fans-software-control-liquid-cpu-cooler-refurb-cw-9060039-ww-rf) | [Noctua NH-D15 (Heatsink)](https://noctua.at/en/nh-d15) |
 
+
+
+
 # Less than $300 PC?
 > [PC Part Picker](https://pcpartpicker.com/list/zTj4Mb)
