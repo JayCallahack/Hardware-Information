@@ -1,2 +1,3 @@
 # Hardware-Information
-This is where you can find information about PC hardware, and products organized in there as well.
+Here you will get access to a bunch of information all all types of peripherals and other pruducts along side that.
+
