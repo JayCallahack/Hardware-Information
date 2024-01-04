@@ -29,6 +29,70 @@
 > Keycaps can be made from various materials like ABS plastic, PBT plastic, or even custom materials like metal. Different keycap profiles, such as OEM, Cherry, or SA, offer different shapes and heights, affecting the typing experience and ergonomics. Keycaps can also be customized with different colors, designs, or even [artisan keycaps](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images) for aesthetic purposes.
 
 # **Budget Options (Less Then $100):**
+
+__Full-Sized:__
+* [Redragon K552](https://a.co/d/6DwP73y)
+* [Redragon K556](https://a.co/d/55Jo7Un)
+* [Redragon K556 Pro](https://a.co/d/8f3WBTW)
+* [Redragon K582 Surara](https://a.co/d/eanXJDG)
+* [Redragon K668](https://a.co/d/ia9ZxBn)
+* [Redragon K628 Pullux](https://a.co/d/i0jdu8d)
+* [EagleTec KG010](https://a.co/d/fyEAVmH)
+* [Havit](https://a.co/d/7xUsr7F)
+* [Motospeed CK108](https://a.co/d/0prfwa6)
+* [RK ROYAL KLUDGE RK100](https://a.co/d/flxLDBl)
+
+__TKL:__
+* [Velocifire TKL02](https://a.co/d/5eOm2C2)
+* [RK ROYAL KLUDGE RK61](https://a.co/d/72kEROy)
+* [E-Element Z-88](https://a.co/d/3l0Ozfi)
+* [Qisan Magicforce](https://a.co/d/7PzxKuC)
+* [Tecware Phantom](https://a.co/d/igkbdyz)
+* [Ajazz 75%](https://a.co/d/4sGco3n)
+* [Ajazz AK33](https://a.co/d/1sExAlJ)
+* [Drevo BladeMaster TE](https://a.co/d/hEygw0T)
+* [Owpkeenthy](https://a.co/d/jhW873r)
+* [LxonElec AK33](https://a.co/d/iGT8g5o)
+* [HUO JI Z-88](https://a.co/d/h0HQmzp)
+
+__Compact:__
+* [DIERYA T68SE](https://a.co/d/44TEndC)
+* [RK ROYAL KLUDGE RK61 Wireless](https://a.co/d/iD5IK4z)
+* [Motospeed CK61 M](https://a.co/d/2uffk4I)
+* [Qisan Magicforce 68](https://a.co/d/7xiSWQo)
+* [RK ROYAL KLUDGE RK68](https://a.co/d/fbfLtXW)
+* [Drevo Calibur V2](https://a.co/d/7rPl2s1)
+
+__60%:__
+* [RK ROYAL KLUDGE RK61](https://a.co/d/31Z4tWm)
+* [DIERYA DK61E](https://a.co/d/dbIaVCY)
+* [GK61](https://a.co/d/2CNNqTr)
+* [Kemove Snowfox 61](https://a.co/d/4yUrd1y)
+* [HK GK61](https://a.co/d/ck2ikov)
+* [Geek GK61 SE](https://a.co/d/7buPwza)
+* [MageGee Portable 60%](https://a.co/d/ixJehxx)
+
+__Split:__ *Less Then $150*
+* [KINESIS Edge RGB Split](https://a.co/d/gq34hsr) 
+* [Koolertron Split Keyboard](https://a.co/d/gYOvd4s)
+* [Mistel Barocco MD770 Split Keyboard](http://mistelkeyboard.com/products/d11cf7a73da49468e2a530b4cf18e76c)
+* [Ergodox EZ Ergonomic Keyboard](https://ergodox-ez.com)
+* [Lily58 Pro Keyboard Kit](https://keebd.com/en-ca/products/lily58-pro-keyboard-kit) *
+* [Let's Split Keyboard](https://mechboards.co.uk/products/lets-split-kit)
+* [Keebd Corne Keyboard](https://keebd.com/en-us/products/corne-cherry-v3-rgb-keyboard-kit) * 
+* [SofleKeyboard Split Keyboard (Build)](https://josefadamcik.github.io/SofleKeyboard/)
+
+
+
+
+
+
+
+
+
+
+
+
 | **Full-Sized:** * [Redragon K552](https://a.co/d/6DwP73y) * [Redragon K556](https://a.co/d/55Jo7Un) * [Redragon K556 Pro](https://a.co/d/8f3WBTW) * [Redragon K582 Surara](https://a.co/d/eanXJDG) * [Redragon K668](https://a.co/d/ia9ZxBn) * [Redragon K628 Pullux](https://a.co/d/i0jdu8d) * [EagleTec KG010](https://a.co/d/fyEAVmH) * [Havit](https://a.co/d/7xUsr7F) * [Motospeed CK108](https://a.co/d/0prfwa6) * [RK ROYAL KLUDGE RK100](https://a.co/d/flxLDBl) |                                                                                    **TKL:** * [Velocifire TKL02](https://a.co/d/5eOm2C2) * [RK ROYAL KLUDGE RK61](https://a.co/d/72kEROy) * [E-Element Z-88](https://a.co/d/3l0Ozfi) * [Qisan Magicforce](https://a.co/d/7PzxKuC) * [Tecware Phantom](https://a.co/d/igkbdyz) * [Ajazz 75%](https://a.co/d/4sGco3n) * [Ajazz AK33](https://a.co/d/1sExAlJ) * [Drevo BladeMaster TE](https://a.co/d/hEygw0T) * [Owpkeenthy](https://a.co/d/jhW873r) * [LxonElec AK33](https://a.co/d/iGT8g5o) * [HUO JI Z-88](https://a.co/d/h0HQmz**                                                                                   | **Compact:** * [DIERYA T68SE](https://a.co/d/44TEndC) * [RK ROYAL KLUDGE RK61 Wireless](https://a.co/d/iD5IK4z) * [Motospeed CK61 M](https://a.co/d/2uffk4I) * [Qisan Magicforce 68](https://a.co/d/7xiSWQo) * [RK ROYAL KLUDGE RK68](https://a.co/d/fbfLtXW) * [Drevo Calibur V2](https://a.co/d/7rPl2s1) |   |   |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|---|---|
 |                                                                              **60%:** * [RK ROYAL KLUDGE RK61](https://a.co/d/31Z4tWm) * [DIERYA DK61E](https://a.co/d/dbIaVCY) * [GK61](https://a.co/d/2CNNqTr) * [Kemove Snowfox 61](https://a.co/d/4yUrd1y) * [HK GK61](https://a.co/d/ck2ikov) * [Geek GK61 SE](https://a.co/d/7buPwza) * [MageGee Portable 60%](https://a.co/d/ixJehxx)                                                                             | **Split:** _Less Then $150_ * [KINESIS Edge RGB Split](https://a.co/d/gq34hsr)  * [Koolertron Split Keyboard](https://a.co/d/gYOvd4s) * [Mistel Barocco MD770 Split Keyboard](http://mistelkeyboard.com/products/d11cf7a73da49468e2a530b4cf18e76c) * [Ergodox EZ Ergonomic Keyboard](https://ergodox-ez.com) * [Lily58 Pro Keyboard Kit](https://keebd.com/en-ca/products/lily58-pro-keyboard-kit) * * [Let's Split Keyboard](https://mechboards.co.uk/products/lets-split-kit) * [Keebd Corne Keyboard](https://keebd.com/en-us/products/corne-cherry-v3-rgb-keyboard-kit) *  * [SofleKeyboard Split Keyboard (Build)](https://josefadamcik.github.io/SofleKeyboard/) |                                                                                                                                                                                                                                                                                                            |   |   |
