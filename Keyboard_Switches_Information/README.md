@@ -8,19 +8,19 @@ Switch lube comes in various types, each with its own characteristics and effect
 
 ### 1. Thin Lube
 
-Thin lube, such as Krytox GPL 205g0 or Tribosys 3204, is used to reduce friction and smooth out the switch's movement. It is applied to the switch housing rails, stem legs, and contact points. Thin lube is ideal for linear switches, as it can make them feel even smoother.
+Thin lube, such as [Krytox GPL 205g0](https://divinikey.com/products/205-grade-0-switch-lubricant) or [Tribosys 3204](https://divinikey.com/products/tribosys-3204-switch-lubricant?_pos=1&_sid=944c5b261&_ss=r), is used to reduce friction and smooth out the switch's movement. It is applied to the switch housing rails, stem legs, and contact points. Thin lube is ideal for linear switches, as it can make them feel even smoother.
 
 ### 2. Thick Lube
 
-Thick lube, like Krytox GPL 205g2 or Tribosys 3203, provides more dampening and is suitable for tactile switches. It is applied to the switch's tactile legs and contact points to enhance the tactile bump while reducing any potential scratchiness.
+Thick lube, like [Krytox GPL 205g2](https://keebcats.co.uk/products/krytox-gpl-205g2?shpxid=1f548170-f1ed-46b0-b860-60eb06a748b2) or [Tribosys 3203](https://divinikey.com/products/tribosys-3203-switch-lubricant?_pos=1&_sid=4d48f1a7c&_ss=r), provides more dampening and is suitable for tactile switches. It is applied to the switch's tactile legs and contact points to enhance the tactile bump while reducing any potential scratchiness.
 
 ### 3. Dielectric Grease
 
-Dielectric grease, such as Super Lube or Permatex Dielectric Tune-Up Grease, is a silicone-based lubricant commonly used for stabilizers. It helps reduce rattle and stabilizer noise by providing a smoother and quieter operation.
+Dielectric grease, such as [Super Lube](https://www.homedepot.ca/product/superlube-3-oz-tube-silicone-hi-dielectric-vacuum-grease/1000735861) or [Permatex Dielectric Tune-Up Grease](https://www.permatex.com/products/lubricants/speciality-lubricants/permatex-dielectric-tune-up-grease-3-oz/), is a silicone-based lubricant commonly used for stabilizers. It helps reduce rattle and stabilizer noise by providing a smoother and quieter operation.
 
 ### 4. Switch Films
 
-Switch films, such as TX Films or Kebo Films, are thin plastic sheets that can be placed inside the switch housing. They help reduce wobble and stabilize the switch's components, resulting in a more consistent and satisfying typing experience.
+Switch films, such as [TX Films](https://divinikey.com/products/tx-switch-films?_pos=1&_sid=c20a6e6e7&_ss=r) or [Kebo Films](https://kebo.store/products/switch-films), are thin plastic sheets that can be placed inside the switch housing. They help reduce wobble and stabilize the switch's components, resulting in a more consistent and satisfying typing experience.
 
 ## Popular Switch Sound Modifications
 
