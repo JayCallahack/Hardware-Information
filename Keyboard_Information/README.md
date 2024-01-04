@@ -22,7 +22,7 @@
 * __Tactile:__ Provide a tactile bump to indicate key actuation. Examples include Cherry [MX Brown](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Brown](https://www.youtube.com/shorts/9PxmoIKHGeg).
 * __Clicky:__ Offer both tactile feedback and an audible click sound. Examples include [Cherry MX Blue](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Kailh Box White](https://www.youtube.com/shorts/KzxUIQKw9EI).
 
-For more nuanced information about switches, click [here](./Keyboard_Switches_Information/)
+For more nuanced information about switches, click [here](./Keyboard_Switches_Information/).
 
 ## **Low profile keyboards:**
 > These keyboards feature a thinner profile and shorter key travel distance, resulting in a sleeker design and potentially quieter typing experience. Examples include the [Keychron K1](https://www.youtube.com/watch?v=mZuTxsJ7s1I) and [Logitech G915](https://www.youtube.com/watch?v=DvZQS0mMcVM).
