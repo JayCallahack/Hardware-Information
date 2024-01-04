@@ -6,7 +6,7 @@
 **__Ergonomics:__**
 > Ergonomic keyboards are designed to provide comfort and reduce strain. They may feature [split layouts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvoltcave.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fdantambok-superme-mechanical-keyboard.jpg&f=1&nofb=1&ipt=7db6e420911c128b97cab2f959ee324f849a2266c532341aa565288e14fb8ce8&ipo=images), [angled designs](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.boundlessat.com%2Fcore%2Fmedia%2Fmedia.nl%3Fid%3D1195799%26c%3D1281905%26h%3D9adcffe9783e3e69ae8b&f=1&nofb=1&ipt=9f591fc76a8fd69684ef10b729f12a53646a06d4b8005a487a1e47ca070390a2&ipo=images), or [curved key layouts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbastardkb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FIMG_0535_transparent-1024x768.png&f=1&nofb=1&ipt=50815142fafb81fe30c24901f38ef7d5a717e98a2943f5d8ff1e80f6a1744f3d&ipo=images) that promote a more natural hand position.
 
-**__Split keyboards:__ **
+**__Split keyboards:__**
 > Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
 
 **__Connectivity options:__**
