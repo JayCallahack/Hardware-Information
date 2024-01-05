@@ -6,6 +6,11 @@
 ## **Major Help Needed**
 > I am a “Broke Boy” (Pokimane*) and it takes me a long time to save up for anything, since I run my own business and currently do not have steady income (Hopefully I can get a part time job soon, but my health issues don’t help) I do not have much income. If I could just pay some people to do certain things for my, while teaching me a bit about what it is that they are doing, then I would love to do that, as to not create so much stress of having to learn how to do everything myself (Grantet the community is a life saver on giving help, and Github is a great place to look, but it does not solve all my problems sadly), I say all that cause I need some MAJOR help. Mainly for now I am looking for some help on the physical parts I am going to need to make this, stuff for soldering, switches, lubes, PCB stuff, components, and anything else I may be missing from my current Parts List. After that, I am going to need some major help on the software side of things, and how to set it up. if there is already something on github that we can use, great, if not, crap. If we could make our own software to accommodate all the stuff in this keyboard, and put it here on github, that would be epic, but even if we just need to make something specific to this, that's fine too, I want to be able to have all this open source, just like many other custom keyboard. links to everything, and step by step guides on how to. SUre this may be ambitious, but I think if the right people see this, and it may be you, then this could totally be possible.
 
+## **Current Steps:**
+1. Get clay to make a starting mold / shape in which grip I want it to be
+2. Find a proper bluetooth setup (Hardware)
+3. Find people to help me
+
 ## **Parts List:**
 
 | [MBK Legend Keycaps](https://clicketysplit.ca/products/mbk-legend-40s?variant=42100195983539)                                                                                                                                                                               | $78 |                                                     |
