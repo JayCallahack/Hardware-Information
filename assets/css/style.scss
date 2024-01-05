@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+css
+ul li::before {
+  content: "•";
+  margin-right: 5px;
+}
