@@ -1,4 +1,4 @@
-![Hello Cruel World](file:///image.png)
+
 > If you find any problems, or would like to suggest an addition to this page, please DM "jaycallahack" on Discord.
 ** ** 
 ## [Keyboard Information](./Keyboard_Information/)
