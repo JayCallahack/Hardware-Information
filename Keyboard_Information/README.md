@@ -31,11 +31,14 @@ For more nuanced information about switches, click [here](./Keyboard_Switches_In
 > Keycaps can be made from various materials like ABS plastic, PBT plastic, or even custom materials like metal. Different keycap profiles, such as OEM, Cherry, or SA, offer different shapes and heights, affecting the typing experience and ergonomics. Keycaps can also be customized with different colors, designs, or even [artisan keycaps](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images) for aesthetic purposes.
 
 ## Videos:
-> I tried to order all the videos listed below to help slowly build your understanding of keyboards, and the different sounds and shapes they come in
-* [Ergonomic Keyboards](https://www.youtube.com/watch?v=UAjCgaP_jNw)
+> I tried to order all the videos listed below to help slowly build your understanding of keyboards, and the different sounds and shapes they come in. The (*) marks videos of keyboards that I personally am really drawn towards, and see that have allot of use, and very unique, or just plain cool.
 * [Keyboard 2022 Completion](https://www.youtube.com/watch?v=AcSkjCB8nHM)
 * [Keyboard 2023 Completion](https://www.youtube.com/shorts/9S0RaSDihS4)
 * [Akko V3 Cream Yellow Switches](https://www.youtube.com/watch?v=a3BnB3wBEZ8&list=LL&index=3)
+* [Ergonomic Keyboards](https://www.youtube.com/watch?v=UAjCgaP_jNw)
+* [The Charybdis Wireless Keyboard](https://youtu.be/Mks7QDxFreY?si=GdyLODKucMJCP73d) * 
+* [The TOTEM Wireless Keyboard](https://youtu.be/YwsutNf1WRA?si=_QrOWRmfXWBkfBJk)
+* [The Wireless Corne Keyboard](https://www.youtube.com/watch?v=hXohJwatIpA)
 
 
 
