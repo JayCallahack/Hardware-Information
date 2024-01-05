@@ -2,5 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Jay Callahack's Tech Learning Page!]
+title: [The Tech Learning Page!]
 description: [Here you will get access to a bunch of in depth information on peripherals, and some information of PC builds.]
