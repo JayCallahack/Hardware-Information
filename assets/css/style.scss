@@ -1,10 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-css
-ul li::before {
-  content: "•";
-  margin-right: 5px;
-}
+@import "{{ul li::before {
+      content: "•";
+      margin-right: 5px;
+    }}}";
