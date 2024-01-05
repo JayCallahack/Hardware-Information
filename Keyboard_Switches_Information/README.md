@@ -34,6 +34,16 @@ Lubing can also alter the sound profile of a mechanical keyboard switch. Here ar
 
 "Clack" refers to a sharper and crisper sound produced by lubed switches. This sound is often associated with linear switches like Cherry MX Black or Gateron Yellow, lightly lubed with thin lube.
 
+## Videos:
+> I tried to order all the videos listed below to help slowly build your understanding of on picking seitches that you may like, then being able to proper lube them to your preferane.
+* [Beginner's Guide to Keyboard Switches](https://www.youtube.com/watch?v=KgdpGTxVfTs)
+* [Picking Switches](https://www.youtube.com/watch?v=-Ln9rA_usoY)
+* [Hot-Swappable Switches?](https://www.youtube.com/watch?v=kS7DgeasSu0)
+* [Switch Pullers](https://www.youtube.com/watch?v=-LZRjJ8e1RU)
+* [Testing Different Amounts Of Lube](https://www.youtube.com/watch?v=EAW_vD0BzgM&list=LL&index=8)
+* [Lubing Switches](https://www.youtube.com/watch?v=b1acqEoW8ws)
+* [Custom Frankenswiches](https://www.youtube.com/watch?v=jU7TDvSgmI4)
+
 ## How to Properly Lube a Switch
 
 Properly lubing a switch involves disassembling it, applying the lube to the necessary parts, and reassembling it. Here is a step-by-step guide on how to lube a switch:

@@ -40,6 +40,9 @@ Computer mice come in various types, each offering different features and functi
 
 - **Cons:** They may take time to get used to, and the ball may require occasional cleaning.
 
+### Videos:
+> [The Ploopy Trackball(s)](https://youtu.be/JczNHT_2uHA?si=VuqRhx1uJIG2RTxy)
+
 ## Gaming Mice
 
 Gaming mice are designed specifically for gamers, offering additional features and customization options.
@@ -54,6 +57,9 @@ Gaming mice are designed specifically for gamers, offering additional features a
 
 - **Cons:** Gaming mice can be more expensive than regular mice, and some models may have a steeper learning curve.
 
+### Videos:
+> [G Pro X SUPERLIGHT 37 gram mod](https://www.youtube.com/watch?v=BQThu5b5hR8&list=LL&index=7)
+
 ## Ergonomic Mice
 
 Ergonomic mice are designed to provide comfort and reduce strain during long hours of computer use.
@@ -67,6 +73,8 @@ Ergonomic mice are designed to provide comfort and reduce strain during long hou
 - **Pros:** Ergonomic mice are designed to reduce hand and wrist fatigue, promoting better posture and minimizing the risk of repetitive strain injuries.
 
 - **Cons:** They may take time to adjust to, and some models may be bulkier than traditional mice.
+
+### Videos:
 
 ## Importance of Choosing the Right Mouse
 
