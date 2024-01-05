@@ -1,5 +1,4 @@
 ![Alt text](file:///image.png)
-# Here you will get access to a bunch of in depth information of peripherals.
 > If you find any problems, or would like to suggest an addition to this page, please DM "jaycallahack" on Discord.
 ** ** 
 ## [Keyboard Information](./Keyboard_Information/)
