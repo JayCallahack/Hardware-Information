@@ -3,14 +3,3 @@
 
 @import "{{ site.theme }}";
 
-html
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/path/to/style.scss">
-
-css
-ul {
-  list-style-type: disc;
-}
-
-ol {
-  list-style-type: decimal;
-}
