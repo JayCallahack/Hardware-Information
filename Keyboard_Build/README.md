@@ -11,6 +11,7 @@
 2. Find a proper bluetooth setup (Hardware)
 3. Find people to help me
 
+
 ## **Parts List:**
 
 | [MBK Legend Keycaps](https://clicketysplit.ca/products/mbk-legend-40s?variant=42100195983539)                                                                                                                                                                               | $78 |                                                     |
