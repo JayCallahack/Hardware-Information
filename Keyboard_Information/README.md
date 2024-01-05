@@ -12,14 +12,14 @@
 > Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
 
 ## **Connectivity options:**
-1. Bluetooth: Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
-2. Wired: Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
+1. __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
+2. __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
 
 ## **Switches:**
 > Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
 
-1. Linear: Smooth keystrokes without tactile feedback. Examples include [Cherry MX Red](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Yellow](https://www.youtube.com/shorts/9PxmoIKHGeg).
-2. Tactile: Provide a tactile bump to indicate key actuation. Examples include Cherry [MX Brown](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Brown](https://www.youtube.com/shorts/9PxmoIKHGeg).
+1. __Linear:__ Smooth keystrokes without tactile feedback. Examples include [Cherry MX Red](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Yellow](https://www.youtube.com/shorts/9PxmoIKHGeg).
+2. __Tactile:__ Provide a tactile bump to indicate key actuation. Examples include Cherry [MX Brown](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Brown](https://www.youtube.com/shorts/9PxmoIKHGeg).
 Clicky: Offer both tactile feedback and an audible click sound. Examples include [Cherry MX Blue](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Kailh Box White](https://www.youtube.com/shorts/KzxUIQKw9EI).
 
 For more nuanced information about switches, click [here](./Keyboard_Switches_Information/).
@@ -30,7 +30,7 @@ For more nuanced information about switches, click [here](./Keyboard_Switches_In
 ## **Keycaps:**
  > Keycaps can be made from various materials like ABS plastic, PBT plastic, or even custom materials like metal. Different keycap profiles, such as OEM, Cherry, or SA, offer different shapes and heights, affecting the typing experience and ergonomics. Keycaps can also be customized with different colors, designs, or even [artisan keycaps](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images) for aesthetic purposes.
 
-## Videos:
+## __Videos:__
  I tried to order all the videos listed below to help slowly build your understanding of keyboards, and the different sounds and shapes they come in. The (*) marks videos of keyboards that I personally am really drawn towards, and see that have allot of use, and very unique, or just plain cool.
 * [Keyboard 2022 Completion](https://www.youtube.com/watch?v=AcSkjCB8nHM)
 * [Keyboard 2023 Completion](https://www.youtube.com/shorts/9S0RaSDihS4)
