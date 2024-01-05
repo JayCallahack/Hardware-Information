@@ -1,4 +1,4 @@
-![Alt text](image-1.png)
+![Alt text](<info (1).png>)
 
 > If you find any problems, or would like to suggest an addition to this page, please DM "jaycallahack" on Discord.
  
