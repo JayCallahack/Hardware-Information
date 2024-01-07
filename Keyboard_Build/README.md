@@ -14,7 +14,7 @@
 
 ## **Parts List:**
 
-| [MBK Legend Keycaps](https://clicketysplit.ca/products/mbk-legend-40s?variant=42100195983539)                                                                                                                                                                               | $78 |                                                     |
+| [DEADLINE Studio DOYS Clear A](https://www.aliexpress.com/item/1005005704551514.html#nav-specification)                                                                                                                                                                               | $2 (Need 33 total: $66) |                                                     |
 | [Single Switch PCB Boards](https://www.etsy.com/ca/listing/1505060775/amoeba-king-single-switch-pcb-single-key?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=Amoeba&ref=sr_gallery-1-7&sts=1&organic_search_click=1&variation0=3599894975) | $35 | (30 Per Order)                                      |
 | [Micro Switches](https://www.etsy.com/ca/listing/896799047/brass-stem-micro-tactile-switches?ref=cart)                                                                                                                                                                      | $16 | (1 Per Order)                                       |
 | [Durock Switches](https://divinikey.com/products/durock-t1-tactile-switch)                                                                                                                                                                                                  | $28 | (18 per pack) Most Likely to go with these switches |
