@@ -89,10 +89,10 @@ Ergonomic mice are designed to provide comfort and reduce strain during long hou
 
 * **HDPE (High-Density Polyethylene)**: HDPE is a lightweight and durable material used for mouse skates. It offers a good balance between glide and control, providing a smooth movement experience.
 
-## **Glass Skates:**
+#### **Glass Skates:**
 > Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces.
 
-## **Feel of Different Mouse Skates on Mousepads:**
+#### **Feel of Different Mouse Skates on Mousepads:**
 > The feel of mouse skates can vary depending on the material and the type of mousepad being used. Here's how different mouse skates may interact with various mousepad surfaces:
 
 * **Cloth Mousepads**: Cloth mousepads are the most common and widely used type. They offer a good balance between speed and control. When paired with PTFE or POM mouse skates, users can experience smooth gliding movements with precise control. The skates effortlessly glide over the cloth surface, providing optimal tracking.
