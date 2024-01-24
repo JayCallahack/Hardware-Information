@@ -31,8 +31,9 @@
 > Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
 
 ## **Connectivity options:**
-1. __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
-2. __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
+>  __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
+> 
+>  __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
 
 ## **Switches:**
 > Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
