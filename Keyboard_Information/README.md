@@ -52,6 +52,7 @@ For more nuanced information about switches, click [here](./Keyboard_Switches_In
 
 ## __Videos:__
 > I tried to order all the videos listed below to help slowly build your understanding of keyboards, and the different sounds and shapes they come in. The (*) marks videos of keyboards that I personally am really drawn towards, and see that have allot of use, and very unique, or just plain cool.
+
 * [Keyboard 2022 Completion](https://www.youtube.com/watch?v=AcSkjCB8nHM)
 * [Keyboard 2023 Completion](https://www.youtube.com/shorts/9S0RaSDihS4)
 * [Akko V3 Cream Yellow Switches](https://www.youtube.com/watch?v=a3BnB3wBEZ8&list=LL&index=3)
