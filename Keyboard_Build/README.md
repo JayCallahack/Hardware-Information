@@ -28,6 +28,9 @@
 | [Hot swap sockets](https://divinikey.com/products/kailh-hot-swap-sockets)                                                                                                                                                                                                   | $14 | (100 per pack)                                      |
 | [Track Ball Sensor](https://www.epsglobal.com/products/semiconductors/sensing-and-haptics/optical-navigation/low-power-laser-mouse-sensor?utm_source=octopart&utm_medium=ppc)                                                                                               | ??? |                                                     |
 
+# More Trackball Info:
+> [Data Sheet PDF](https://html.alldatasheet.com/html-pdf/899003/PIXART/PMW3610DM-SUDU/1368/6/PMW3610DM-SUDU.html)
+
 ** ** 
 
 ## **Key Layout**
