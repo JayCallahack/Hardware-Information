@@ -2,9 +2,9 @@
 
 ## **Sizes: Mechanical keyboards come in different sizes:**
 > [Full-size:](https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png) This is the standard layout with a number pad.
-
+> 
 > [Tenkeyless (TKL):](https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png) This layout removes the number pad for a more compact design.
-
+> 
 > [60%:](https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png) This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
 
 ## **Physical Key Layouts**
