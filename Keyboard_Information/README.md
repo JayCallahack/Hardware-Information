@@ -29,15 +29,14 @@
 > Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
 
 ## **Connectivity options:**
->  __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
-> 
->  __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
+* __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
+* __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
 
 ## **Switches:**
 > Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
 
-1. __Linear:__ Smooth keystrokes without tactile feedback. Examples include [Cherry MX Red](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Yellow](https://www.youtube.com/shorts/9PxmoIKHGeg).
-2. __Tactile:__ Provide a tactile bump to indicate key actuation. Examples include Cherry [MX Brown](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Brown](https://www.youtube.com/shorts/9PxmoIKHGeg).
+* __Linear:__ Smooth keystrokes without tactile feedback. Examples include [Cherry MX Red](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Yellow](https://www.youtube.com/shorts/9PxmoIKHGeg).
+* __Tactile:__ Provide a tactile bump to indicate key actuation. Examples include Cherry [MX Brown](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Brown](https://www.youtube.com/shorts/9PxmoIKHGeg).
 Clicky: Offer both tactile feedback and an audible click sound. Examples include [Cherry MX Blue](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Kailh Box White](https://www.youtube.com/shorts/KzxUIQKw9EI).
 
 For more nuanced information about switches, click [here](./Keyboard_Switches_Information/).

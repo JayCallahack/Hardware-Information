@@ -58,13 +58,10 @@ Gaming mice are designed specifically for gamers, offering additional features a
 - **Cons:** Gaming mice can be more expensive than regular mice, and some models may have a steeper learning curve.
 
 ### Videos:
-> [G Pro X SUPERLIGHT 37 gram mod](https://www.youtube.com/watch?v=BQThu5b5hR8&list=LL&index=7)
-
-> [Gravastar Mercury M2 Unboxing and First Impressions](https://www.youtube.com/watch?v=h9ZLYn_dgjg)
-
-> [Making my Dream Gaming Mouse](https://www.youtube.com/watch?v=xvz8KjCpdLE)
-
-> [Beast X Mouse Review](https://youtu.be/E0BkJjS26Fk?si=uohElE4_UYfjjdoQ)
+* [G Pro X SUPERLIGHT 37 gram mod](https://www.youtube.com/watch?v=BQThu5b5hR8&list=LL&index=7)
+* [Gravastar Mercury M2 Unboxing and First Impressions](https://www.youtube.com/watch?v=h9ZLYn_dgjg)
+* [Making my Dream Gaming Mouse](https://www.youtube.com/watch?v=xvz8KjCpdLE)
+* [Beast X Mouse Review](https://youtu.be/E0BkJjS26Fk?si=uohElE4_UYfjjdoQ)
 
 ## Ergonomic Mice
 
@@ -86,11 +83,11 @@ Ergonomic mice are designed to provide comfort and reduce strain during long hou
 
 > Mouse skates, also known as mouse feet, are the small pads or gliders attached to the bottom of gaming mice. They play a crucial role in providing smooth and controlled movement across different surfaces. Here are some common materials used for mouse skates:
 
-1. **PTFE (Polytetrafluoroethylene)**: PTFE, also known as Teflon, is a popular material used for mouse skates. It offers excellent glide and durability, making it a preferred choice for many gamers. PTFE skates provide a smooth and effortless glide, reducing friction and allowing for precise movements.
+* **PTFE (Polytetrafluoroethylene)**: PTFE, also known as Teflon, is a popular material used for mouse skates. It offers excellent glide and durability, making it a preferred choice for many gamers. PTFE skates provide a smooth and effortless glide, reducing friction and allowing for precise movements.
 
-2. **POM (Polyoxymethylene)**: POM is another material commonly used for mouse skates. It offers similar characteristics to PTFE, providing a smooth glide and good durability. POM skates are known for their quiet operation and resistance to wear.
+* **POM (Polyoxymethylene)**: POM is another material commonly used for mouse skates. It offers similar characteristics to PTFE, providing a smooth glide and good durability. POM skates are known for their quiet operation and resistance to wear.
 
-3. **HDPE (High-Density Polyethylene)**: HDPE is a lightweight and durable material used for mouse skates. It offers a good balance between glide and control, providing a smooth movement experience.
+* **HDPE (High-Density Polyethylene)**: HDPE is a lightweight and durable material used for mouse skates. It offers a good balance between glide and control, providing a smooth movement experience.
 
 **Glass Skates:**
 > Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces.
@@ -98,11 +95,11 @@ Ergonomic mice are designed to provide comfort and reduce strain during long hou
 **Feel of Different Mouse Skates on Mousepads:**
 > The feel of mouse skates can vary depending on the material and the type of mousepad being used. Here's how different mouse skates may interact with various mousepad surfaces:
 
-1. **Cloth Mousepads**: Cloth mousepads are the most common and widely used type. They offer a good balance between speed and control. When paired with PTFE or POM mouse skates, users can experience smooth gliding movements with precise control. The skates effortlessly glide over the cloth surface, providing optimal tracking.
+* **Cloth Mousepads**: Cloth mousepads are the most common and widely used type. They offer a good balance between speed and control. When paired with PTFE or POM mouse skates, users can experience smooth gliding movements with precise control. The skates effortlessly glide over the cloth surface, providing optimal tracking.
 
-2. **Hard Mousepads**: Hard mousepads, usually made of plastic or aluminum, offer a smooth and consistent surface. When combined with PTFE or HDPE mouse skates, users can expect a fast and effortless glide. The skates make minimal contact with the hard surface, resulting in reduced friction and quick movements.
+* **Hard Mousepads**: Hard mousepads, usually made of plastic or aluminum, offer a smooth and consistent surface. When combined with PTFE or HDPE mouse skates, users can expect a fast and effortless glide. The skates make minimal contact with the hard surface, resulting in reduced friction and quick movements.
 
-3. **Glass Mousepads**: Glass mousepads provide a unique surface for mouse movement. When using specialized glass skates, users can achieve precise and controlled movements on these smooth surfaces. Glass skates are designed to offer high friction on glass mousepads, allowing for accurate tracking and reduced slippage.
+* **Glass Mousepads**: Glass mousepads provide a unique surface for mouse movement. When using specialized glass skates, users can achieve precise and controlled movements on these smooth surfaces. Glass skates are designed to offer high friction on glass mousepads, allowing for accurate tracking and reduced slippage.
 
 ## Importance of Choosing the Right Mouse
 

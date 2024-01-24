@@ -36,6 +36,7 @@ Lubing can also alter the sound profile of a mechanical keyboard switch. Here ar
 
 ## Videos:
 > I tried to order all the videos listed below to help slowly build your understanding of on picking seitches that you may like, then being able to proper lube them to your preferane.
+
 * [Beginner's Guide to Keyboard Switches](https://www.youtube.com/watch?v=KgdpGTxVfTs)
 * [Picking Switches](https://www.youtube.com/watch?v=-Ln9rA_usoY)
 * [Hot-Swappable Switches?](https://www.youtube.com/watch?v=kS7DgeasSu0)
