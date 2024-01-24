@@ -1,28 +1,26 @@
 # Keyboards:
 
 ## **Sizes: Mechanical keyboards come in different sizes:**
-> [Full-size:](https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png) This is the standard layout with a number pad.
-> 
-> [Tenkeyless (TKL):](https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png) This layout removes the number pad for a more compact design.
-> 
-> [60%:](https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png) This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
+* [Full-size:](https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png) This is the standard layout with a number pad. 
+* [Tenkeyless (TKL):](https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png) This layout removes the number pad for a more compact design.
+* [60%:](https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png) This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
 
 ## **Physical Key Layouts**
-1. Staggered Layout:
+* Staggered Layout:
    The staggered layout is the most common and widely used keyboard layout. It features keys that are arranged in a staggered pattern, where each row is slightly offset from the row above or below it. This layout follows the traditional typewriter design and is commonly seen on standard keyboards, including QWERTY and AZERTY layouts. Staggered layouts are found on most mainstream keyboards and cater to a wide range of users, including typists, gamers, and general computer users.
 
-2. Ortholinear Layout:
+* Ortholinear Layout:
    The ortholinear layout is an alternative to the staggered layout. In this layout, the keys are arranged in a grid-like pattern with straight vertical and horizontal alignment. Each key is directly aligned above or below its corresponding key in the row above or below. Ortholinear layouts aim to improve typing accuracy and finger movement by reducing finger travel distance. These layouts are often associated with mechanical keyboards and are popular among enthusiasts, programmers, and those who prioritize ergonomic typing experiences.
 
-3. Columnar Staggered Layout:
+* Columnar Staggered Layout:
    The columnar staggered layout is a hybrid between the ortholinear and staggered layouts. It retains the straight vertical alignment of the ortholinear layout but introduces a slight stagger to the columns to better align with the natural position of the fingers. Columnar staggered layouts are designed to optimize finger movement and reduce strain by accommodating the natural angles and reach of the fingers. These layouts are typically found on ergonomic or customizable keyboards that prioritize ergonomic typing experiences and finger comfort.
 
 ### **Regarding the types of keyboards where you are likely to encounter these layouts:**
-1. Staggered Layout: Staggered layouts are found on most mainstream keyboards, including laptops, desktop keyboards, and most off-the-shelf mechanical keyboards.
+* Staggered Layout: Staggered layouts are found on most mainstream keyboards, including laptops, desktop keyboards, and most off-the-shelf mechanical keyboards.
 
-2. Ortholinear Layout: Ortholinear layouts are commonly associated with mechanical keyboards, particularly those that cater to enthusiasts and those seeking a more ergonomic typing experience. They are often found on programmable keyboards or DIY keyboard kits.
+* Ortholinear Layout: Ortholinear layouts are commonly associated with mechanical keyboards, particularly those that cater to enthusiasts and those seeking a more ergonomic typing experience. They are often found on programmable keyboards or DIY keyboard kits.
 
-3. Columnar Staggered Layout: Columnar staggered layouts are primarily seen on ergonomic keyboards designed for improved comfort and typing efficiency. These keyboards are typically customizable and programmable, allowing users to tailor the layout to their specific needs. Examples include the Ergodox EZ and the Keyboardio Model 01.
+* Columnar Staggered Layout: Columnar staggered layouts are primarily seen on ergonomic keyboards designed for improved comfort and typing efficiency. These keyboards are typically customizable and programmable, allowing users to tailor the layout to their specific needs. Examples include the Ergodox EZ and the Keyboardio Model 01.
 
 ## **Ergonomics:**
 >  Ergonomic keyboards are designed to provide comfort and reduce strain. They may feature [split layouts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvoltcave.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fdantambok-superme-mechanical-keyboard.jpg&f=1&nofb=1&ipt=7db6e420911c128b97cab2f959ee324f849a2266c532341aa565288e14fb8ce8&ipo=images), [angled designs](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.boundlessat.com%2Fcore%2Fmedia%2Fmedia.nl%3Fid%3D1195799%26c%3D1281905%26h%3D9adcffe9783e3e69ae8b&f=1&nofb=1&ipt=9f591fc76a8fd69684ef10b729f12a53646a06d4b8005a487a1e47ca070390a2&ipo=images), or [curved key layouts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbastardkb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FIMG_0535_transparent-1024x768.png&f=1&nofb=1&ipt=50815142fafb81fe30c24901f38ef7d5a717e98a2943f5d8ff1e80f6a1744f3d&ipo=images) that promote a more natural hand position.
