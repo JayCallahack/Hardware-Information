@@ -6,3 +6,7 @@
 ul li {
     list-style-image: unset;
   }
+
+  ul li::marker {
+    color: #b5e854;
+  }
