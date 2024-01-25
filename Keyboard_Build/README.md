@@ -29,7 +29,7 @@
 | [Track Ball Sensor](https://www.epsglobal.com/products/semiconductors/sensing-and-haptics/optical-navigation/low-power-laser-mouse-sensor?utm_source=octopart&utm_medium=ppc)                                                                                               | ??? |                                                     |
 
 # More Trackball Info:
-> [Data Sheet PDF](https://html.alldatasheet.com/html-pdf/899003/PIXART/PMW3610DM-SUDU/1368/6/PMW3610DM-SUDU.html)
+* [Data Sheet PDF](https://html.alldatasheet.com/html-pdf/899003/PIXART/PMW3610DM-SUDU/1368/6/PMW3610DM-SUDU.html)
 
 ** ** 
 
@@ -37,9 +37,9 @@
 ![Alt text](dummy.png)
 
 ## **GitHub Links** *(Software Side)*:
-1. [Trackball Sensor](https://github.com/ufan/pmw3610_breakout)
-2. [The Dactyl-ManuForm Keyboard](https://github.com/abstracthat/dactyl-manuform)
-3. [Charybdis](https://github.com/Bastardkb/Charybdis)
+* [Trackball Sensor](https://github.com/ufan/pmw3610_breakout)
+* [The Dactyl-ManuForm Keyboard](https://github.com/abstracthat/dactyl-manuform)
+* [Charybdis](https://github.com/Bastardkb/Charybdis)
 
 
 
