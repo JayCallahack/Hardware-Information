@@ -36,12 +36,12 @@
    - *Examples:* Keyboard, mouse, and other peripherals.
 
 ### **Output Devices:**
-    - *Function:* Display or output information from the computer.
-    - *Examples:* Monitor, speakers, and printer.
+  - *Function:* Display or output information from the computer.
+  - *Examples:* Monitor, speakers, and printer.
 
 ### **Networking Components:**
-    - *Function:* Enable communication with other devices and the internet.
-    - *Examples:* Ethernet card, Wi-Fi adapter.
+- *Function:* Enable communication with other devices and the internet.
+- *Examples:* Ethernet card, Wi-Fi adapter.
 
 Remember, these components work together to form a complete computer system. The specifications and compatibility of these components depend on the intended use of the computer, such as gaming, productivity, or content creation.
 
