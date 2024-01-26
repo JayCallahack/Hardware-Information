@@ -22,8 +22,7 @@ Monitors are available in sizes ranging from compact 21-inch displays to expansi
 - Black point represents how deep and true black colors appear on a monitor.
 - Monitors with good black point values provide better contrast and image quality.
 
-## **Pixel Makeup:**
-# Evolution of Monitors (2010-2020)
+# **Pixel Makeup:**
 
 ### **1. LCD (Liquid Crystal Display):**
   - Dominant technology during this period.
