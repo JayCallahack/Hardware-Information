@@ -6,14 +6,14 @@
 * [60%:](https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png) This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
 
 ## **Physical Key Layouts**
-* Staggered Layout:
-   The staggered layout is the most common and widely used keyboard layout. It features keys that are arranged in a staggered pattern, where each row is slightly offset from the row above or below it. This layout follows the traditional typewriter design and is commonly seen on standard keyboards, including QWERTY and AZERTY layouts. Staggered layouts are found on most mainstream keyboards and cater to a wide range of users, including typists, gamers, and general computer users.
+### **Staggered Layout:**
+> The staggered layout is the most common and widely used keyboard layout. It features keys that are arranged in a staggered pattern, where each row is slightly offset from the row above or below it. This layout follows the traditional typewriter design and is commonly seen on standard keyboards, including QWERTY and AZERTY layouts. Staggered layouts are found on most mainstream keyboards and cater to a wide range of users, including typists, gamers, and general computer users.
 
-* Ortholinear Layout:
-   The ortholinear layout is an alternative to the staggered layout. In this layout, the keys are arranged in a grid-like pattern with straight vertical and horizontal alignment. Each key is directly aligned above or below its corresponding key in the row above or below. Ortholinear layouts aim to improve typing accuracy and finger movement by reducing finger travel distance. These layouts are often associated with mechanical keyboards and are popular among enthusiasts, programmers, and those who prioritize ergonomic typing experiences.
+### **Ortholinear Layout:**
+> The ortholinear layout is an alternative to the staggered layout. In this layout, the keys are arranged in a grid-like pattern with straight vertical and horizontal alignment. Each key is directly aligned above or below its corresponding key in the row above or below. Ortholinear layouts aim to improve typing accuracy and finger movement by reducing finger travel distance. These layouts are often associated with mechanical keyboards and are popular among enthusiasts, programmers, and those who prioritize ergonomic typing experiences.
 
-* Columnar Staggered Layout:
-   The columnar staggered layout is a hybrid between the ortholinear and staggered layouts. It retains the straight vertical alignment of the ortholinear layout but introduces a slight stagger to the columns to better align with the natural position of the fingers. Columnar staggered layouts are designed to optimize finger movement and reduce strain by accommodating the natural angles and reach of the fingers. These layouts are typically found on ergonomic or customizable keyboards that prioritize ergonomic typing experiences and finger comfort.
+### **Columnar Staggered Layout:**
+> The columnar staggered layout is a hybrid between the ortholinear and staggered layouts. It retains the straight vertical alignment of the ortholinear layout but introduces a slight stagger to the columns to better align with the natural position of the fingers. Columnar staggered layouts are designed to optimize finger movement and reduce strain by accommodating the natural angles and reach of the fingers. These layouts are typically found on ergonomic or customizable keyboards that prioritize ergonomic typing experiences and finger comfort.
 
 ### **Regarding the types of keyboards where you are likely to encounter these layouts:**
 * Staggered Layout: Staggered layouts are found on most mainstream keyboards, including laptops, desktop keyboards, and most off-the-shelf mechanical keyboards.
