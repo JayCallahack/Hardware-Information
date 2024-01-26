@@ -1,8 +1,26 @@
-> Remember, to save more on PC parts, look through, Cregs List, Kijiji, Ebay, Facebook Marketplace, and other online markets to find cheaper used parts. All the parts down below are chosen to work specifically with the chosen motherboard.
+# Tips & Tricks 
+
+### Buying Off Marketplaces
+> Remember, to save more on PC parts, look through, Cregs List, Kijiji, Ebay, Facebook Marketplace, and other online markets to find cheaper used parts. All the parts down below are chosen to work specifically with the chosen motherboard. If you are buying a pre-built PC Make sure to ask the seller as much important information as possible, such as the age of the parts, any problems with the PC, and if they are using an SSD (Solid State Drive) or an HDD (Hard Disk Drive). If the seller seem off in any way, by refusing to give requested information of the PC, or extra photos of the PC, then do not buy from them. (CPUs can be easily counterfit, and re-sellers may end up selling these, try and keep to buying CPUs from a trusted source)
+
+# League Of Legends (Budget Friendly)
+Intergrated Graphics (No Graphics Card)
+
+# Valorant (Budget Friendly)
+Intergrated Graphics (No Graphics Card)
+
+# Overwatch (Moderatly Budget Friendly)
+
+# Fortnite ()
+
+# Cyberpunk
+
+## Test Your PC Prts
+* [Test Your PCs Memory](https://www.memtest.org/)
+* 
 
 
 # -$500 PC?
-
 |              |                                                                                                  Base                                                                                                 |                                                                                                 Upgraded                                                                                                |                                                                                                                    Best                                                                                                                    |                                                         |
 |--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------|
 |     Case     |                                                [Cooler Master MasterBox Q300L](https://www.coolermaster.com/catalog/cases/mini-tower/masterbox-q300l/)                                                |                                                                                                                                                                                                         |                                                                                                                                                                                                                                            |                                                         |
