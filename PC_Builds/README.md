@@ -1,7 +1,50 @@
-# Tips & Tricks 
+# Basics Of The Computer
+### **Processor (CPU - Central Processing Unit):**
+   - *Function:* The brain of the computer; performs calculations and executes instructions.
+   - *Key Factors:* Speed (measured in GHz), cores, and threads.
 
-### Buying Off Marketplaces
-> Remember, to save more on PC parts, look through, Cregs List, Kijiji, Ebay, Facebook Marketplace, and other online markets to find cheaper used parts. All the parts down below are chosen to work specifically with the chosen motherboard. If you are buying a pre-built PC Make sure to ask the seller as much important information as possible, such as the age of the parts, any problems with the PC, and if they are using an SSD (Solid State Drive) or an HDD (Hard Disk Drive). If the seller seem off in any way, by refusing to give requested information of the PC, or extra photos of the PC, then do not buy from them. (CPUs can be easily counterfit, and re-sellers may end up selling these, try and keep to buying CPUs from a trusted source)
+### **Memory (RAM - Random Access Memory):**
+   - *Function:* Temporary storage for actively used data and programs.
+   - *Key Factors:* Capacity (measured in GB or TB), and speed.
+
+### **Storage (HDD/SSD - Hard Disk Drive/Solid State Drive):**
+   - *Function:* Permanent storage for the operating system, programs, and files.
+   - *Key Factors:* Capacity (measured in GB or TB), and speed (SSD is faster than HDD).
+
+### **Motherboard:**
+   - *Function:* Connects and allows communication between all components.
+   - *Key Components:* CPU socket, RAM slots, expansion slots, and connectors for peripherals.
+
+### **Graphics Card (GPU - Graphics Processing Unit):**
+   - *Function:* Handles graphics rendering for gaming and visual tasks.
+   - *Key Factors:* GPU model, VRAM (video RAM), and clock speed.
+
+### **Power Supply Unit (PSU):**
+   - *Function:* Converts electrical power from an outlet into usable power for the computer.
+   - *Key Factors:* Wattage, efficiency, and modular vs. non-modular design.
+
+### **Cooling System:**
+   - *Function:* Keeps components, especially the CPU and GPU, cool to prevent overheating.
+   - *Key Components:* Fans, heat sinks, and sometimes liquid cooling systems.
+
+### **Case:**
+   - *Function:* Encloses and protects all internal components.
+   - *Key Features:* Size, airflow, cable management, and aesthetics.
+
+### **Input Devices:**
+   - *Function:* Allow user interaction with the computer.
+   - *Examples:* Keyboard, mouse, and other peripherals.
+
+### **Output Devices:**
+    - *Function:* Display or output information from the computer.
+    - *Examples:* Monitor, speakers, and printer.
+
+### **Networking Components:**
+    - *Function:* Enable communication with other devices and the internet.
+    - *Examples:* Ethernet card, Wi-Fi adapter.
+
+Remember, these components work together to form a complete computer system. The specifications and compatibility of these components depend on the intended use of the computer, such as gaming, productivity, or content creation.
+
 
 # League Of Legends (Budget Friendly)
 Intergrated Graphics (No Graphics Card)
@@ -19,6 +62,10 @@ Intergrated Graphics (No Graphics Card)
 * [Test Your PCs Memory](https://www.memtest.org/)
 * 
 
+# Tips & Tricks 
+
+### Buying Off Marketplaces
+> Remember, to save more on PC parts, look through, Cregs List, Kijiji, Ebay, Facebook Marketplace, and other online markets to find cheaper used parts. All the parts down below are chosen to work specifically with the chosen motherboard. If you are buying a pre-built PC Make sure to ask the seller as much important information as possible, such as the age of the parts, any problems with the PC, and if they are using an SSD (Solid State Drive) or an HDD (Hard Disk Drive). If the seller seem off in any way, by refusing to give requested information of the PC, or extra photos of the PC, then do not buy from them. (CPUs can be easily counterfit, and re-sellers may end up selling these, try and keep to buying CPUs from a trusted source)
 
 # -$500 PC?
 |              |                                                                                                  Base                                                                                                 |                                                                                                 Upgraded                                                                                                |                                                                                                                    Best                                                                                                                    |                                                         |
