@@ -23,13 +23,56 @@ Monitors are available in sizes ranging from compact 21-inch displays to expansi
 - Monitors with good black point values provide better contrast and image quality.
 
 ## **Pixel Makeup:**
-- **OLED (Organic Light-Emitting Diode):**
-  - Offers individual pixel illumination for true blacks and vibrant colors.
-  - Commonly found in high-end TVs but emerging in monitors.
+# Evolution of Monitors (2010-2020)
 
-- **LED (Light-Emitting Diode):**
-  - Backlit by LEDs for improved energy efficiency and brightness.
-  - Found in a wide range of monitors, from budget to high-end models.
+### **1. LCD (Liquid Crystal Display):**
+  - Dominant technology during this period.
+  - Variants included TN (Twisted Nematic), VA (Vertical Alignment), and IPS (In-Plane Switching) panels.
+  - Decent color reproduction and response times.
+
+### **2. LED Backlighting:**
+  - LED (Light-Emitting Diode) backlighting replaced CCFL (Cold Cathode Fluorescent Lamp).
+  - Improved energy efficiency, brightness, and color accuracy.
+  
+### **3. Higher Resolutions:**
+  - Introduction of higher resolutions like Quad HD (2560x1440) and 4K (3840x2160).
+  - Improved clarity and detail, especially in professional applications.
+
+### **4. 144Hz and Beyond:**
+  - Gaming monitors started featuring higher refresh rates (e.g., 144Hz, 165Hz, 240Hz).
+  - Reduced motion blur and enhanced gaming experience.
+
+### **5. Ultrawide and Curved Monitors:**
+  - Emergence of ultrawide monitors with 21:9 aspect ratios for increased screen real estate.
+  - Adoption of curved displays for an immersive viewing experience.
+
+### **6. Adaptive Sync Technologies:**
+  - Introduction of adaptive sync technologies like AMD FreeSync.
+  - Synchronized refresh rates to reduce screen tearing during gaming.
+
+### **7. OLED Displays:**
+  - OLED (Organic Light-Emitting Diode) displays gained popularity.
+  - Offered individual pixel illumination, achieving true blacks and vibrant colors.
+
+### **8. HDR (High Dynamic Range):**
+  - Monitors started incorporating HDR technology for improved contrast and color depth.
+  - Enhanced visual experience, especially in multimedia content.
+
+### **9. Quantum Dot Displays:**
+  - Quantum Dot technology used to enhance color accuracy and brightness.
+  - Popularized by some high-end monitors.
+
+### **10. IPS Advancements:**
+  - IPS panels saw improvements in response times and refresh rates.
+  - Gaming-focused IPS monitors gained traction.
+
+### **11. Mini-LED Technology:**
+  - Introduction of mini-LED backlighting for improved local dimming.
+  - Enhanced contrast ratios and improved HDR performance.
+
+### **12. 360Hz Gaming Monitors:**
+  - Arrival of gaming monitors with ultra-high refresh rates of 360Hz.
+  - Catered to competitive gaming for the smoothest experience.
 
 ## **Gamma Ranges:**
 - Gamma correction influences the luminance of an image, impacting color accuracy.
