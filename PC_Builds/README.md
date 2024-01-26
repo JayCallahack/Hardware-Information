@@ -13,7 +13,7 @@
 
 ### **Motherboard:**
    - **Function:** Connects and allows communication between all components.
-   - *Key Components:** CPU socket, RAM slots, expansion slots, and connectors for peripherals.
+   - **Key Components:** CPU socket, RAM slots, expansion slots, and connectors for peripherals.
 
 ### **Graphics Card (GPU - Graphics Processing Unit):**
    - **Function:** Handles graphics rendering for gaming and visual tasks.
