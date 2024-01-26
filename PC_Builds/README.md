@@ -43,8 +43,9 @@
 - **Function:** Enable communication with other devices and the internet.
 - **Examples:** Ethernet card, Wi-Fi adapter.
 
-Remember, these components work together to form a complete computer system. The specifications and compatibility of these components depend on the intended use of the computer, such as gaming, productivity, or content creation.
-
+## Cool Useful Tools & Mods:
+* 3D Printed Airflow Mod
+* GPU Stands
 
 ## League Of Legends (Budget Friendly)
 Intergrated Graphics (No Graphics Card)
