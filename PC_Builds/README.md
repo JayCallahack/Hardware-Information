@@ -46,17 +46,17 @@
 Remember, these components work together to form a complete computer system. The specifications and compatibility of these components depend on the intended use of the computer, such as gaming, productivity, or content creation.
 
 
-# League Of Legends (Budget Friendly)
+## League Of Legends (Budget Friendly)
 Intergrated Graphics (No Graphics Card)
 
-# Valorant (Budget Friendly)
+## Valorant (Budget Friendly)
 Intergrated Graphics (No Graphics Card)
 
-# Overwatch (Moderatly Budget Friendly)
+## Overwatch (Moderatly Budget Friendly)
 
-# Fortnite ()
+## Fortnite ()
 
-# Cyberpunk
+## Cyberpunk
 
 ## Test Your PC Prts
 * [Test Your PCs Memory](https://www.memtest.org/)
