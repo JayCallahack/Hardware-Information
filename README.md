@@ -6,11 +6,13 @@
 
 ## [Keyboard Information](./Keyboard_Information/)
 ** ** 
+## [Switches and Lubing](./Keyboard_Switches_Information/)
+** ** 
 ## [Mouse Information](./Mouse_Information/)
 ** ** 
 ## [Mousepad Information](./Mousepad_Information/)
 ** ** 
-## [Switches and Lubing](./Keyboard_Switches_Information/)
+## [Monitors](./Monitor_Setup/)
 ** ** 
 ## [PC Builds?](./PC_Builds/)
 ** ** 
