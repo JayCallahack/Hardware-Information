@@ -1,47 +1,47 @@
 # Basics Of The Computer
 ### **Processor (CPU - Central Processing Unit):**
-   - *Function:* The brain of the computer; performs calculations and executes instructions.
-   - *Key Factors:* Speed (measured in GHz), cores, and threads.
+   - **Function:** The brain of the computer; performs calculations and executes instructions.
+   - **Key Factors:** Speed (measured in GHz), cores, and threads.
 
 ### **Memory (RAM - Random Access Memory):**
-   - *Function:* Temporary storage for actively used data and programs.
-   - *Key Factors:* Capacity (measured in GB or TB), and speed.
+   - **Function:** Temporary storage for actively used data and programs.
+   - **Key Factors:** Capacity (measured in GB or TB), and speed.
 
 ### **Storage (HDD/SSD - Hard Disk Drive/Solid State Drive):**
-   - *Function:* Permanent storage for the operating system, programs, and files.
-   - *Key Factors:* Capacity (measured in GB or TB), and speed (SSD is faster than HDD).
+   - **Function:** Permanent storage for the operating system, programs, and files.
+   - **Key Factors:** Capacity (measured in GB or TB), and speed (SSD is faster than HDD).
 
 ### **Motherboard:**
-   - *Function:* Connects and allows communication between all components.
-   - *Key Components:* CPU socket, RAM slots, expansion slots, and connectors for peripherals.
+   - **Function:** Connects and allows communication between all components.
+   - *Key Components:** CPU socket, RAM slots, expansion slots, and connectors for peripherals.
 
 ### **Graphics Card (GPU - Graphics Processing Unit):**
-   - *Function:* Handles graphics rendering for gaming and visual tasks.
-   - *Key Factors:* GPU model, VRAM (video RAM), and clock speed.
+   - **Function:** Handles graphics rendering for gaming and visual tasks.
+   - **Key Factors:** GPU model, VRAM (video RAM), and clock speed.
 
 ### **Power Supply Unit (PSU):**
-   - *Function:* Converts electrical power from an outlet into usable power for the computer.
-   - *Key Factors:* Wattage, efficiency, and modular vs. non-modular design.
+   - **Function:** Converts electrical power from an outlet into usable power for the computer.
+   - **Key Factors:** Wattage, efficiency, and modular vs. non-modular design.
 
 ### **Cooling System:**
-   - *Function:* Keeps components, especially the CPU and GPU, cool to prevent overheating.
-   - *Key Components:* Fans, heat sinks, and sometimes liquid cooling systems.
+   - **Function:** Keeps components, especially the CPU and GPU, cool to prevent overheating.
+   - **Key Components:** Fans, heat sinks, and sometimes liquid cooling systems.
 
 ### **Case:**
-   - *Function:* Encloses and protects all internal components.
-   - *Key Features:* Size, airflow, cable management, and aesthetics.
+   - **Function:** Encloses and protects all internal components.
+   - **Key Features:** Size, airflow, cable management, and aesthetics.
 
 ### **Input Devices:**
-   - *Function:* Allow user interaction with the computer.
-   - *Examples:* Keyboard, mouse, and other peripherals.
+   - **Function:** Allow user interaction with the computer.
+   - **Examples:** Keyboard, mouse, and other peripherals.
 
 ### **Output Devices:**
-  - *Function:* Display or output information from the computer.
-  - *Examples:* Monitor, speakers, and printer.
+  - **Function:** Display or output information from the computer.
+  - **Examples:** Monitor, speakers, and printer.
 
 ### **Networking Components:**
-- *Function:* Enable communication with other devices and the internet.
-- *Examples:* Ethernet card, Wi-Fi adapter.
+- **Function:** Enable communication with other devices and the internet.
+- **Examples:** Ethernet card, Wi-Fi adapter.
 
 Remember, these components work together to form a complete computer system. The specifications and compatibility of these components depend on the intended use of the computer, such as gaming, productivity, or content creation.
 
