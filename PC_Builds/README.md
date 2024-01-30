@@ -52,8 +52,17 @@
 ## League Of Legends (Budget Friendly)
 Intergrated Graphics (No Graphics Card)
 
-## Valorant (Budget Friendly)
-Intergrated Graphics (No Graphics Card)
+## [Valorant (Budget Friendly Entry Level)](https://ca.pcpartpicker.com/list/7jcXsL)
+> Intergrated Graphics (No Graphics Card)
+> FPS: ~200+ (This is what the Genration before got, This generation +14%)
+> Aftermarket cooler may be better then the stock cooler, depending on if your game is running your PC hotter (85°c +)
+* [Case] - [DIYPC ARGB-Q8-BK](https://www.newegg.com/p/N82E16811353215?Item=N82E16811353215)
+* [CPU] - [Intel Core i5-12400](https://www.newegg.com/intel-core-i5-12400f-core-i5-12th-gen/p/N82E16819118358)
+* [Cooler] - [Thermaltake Gravity i3](https://www.newegg.com/thermaltake-cl-p094-al09wt-a/p/N82E16835106698?Item=9SIA8EFJ317236)
+* 1. [Memory] - [Team T-FORCE VULCAN Z](https://www.newegg.com/team-16gb-288-pin-ddr4-sdram/p/N82E16820331542?Item=N82E16820331542)
+* 2. [Memory] - [G.SKILL Ripjaws V Series](https://www.newegg.com/g-skill-16gb-288-pin-ddr4-sdram/p/N82E16820231941)
+* 3. [Memory] - [CORSAIR Vengeance LPX](https://www.newegg.com/corsair-16gb-288-pin-ddr4-sdram/p/N82E16820236538)
+
 
 ## Overwatch (Moderatly Budget Friendly)
 
