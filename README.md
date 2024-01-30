@@ -16,7 +16,7 @@
 ** ** 
 ## [PC Builds?](./PC_Builds/)
 ** ** 
-## [Jay's Custome Keyboard Build Project](./Keyboard_Build/)
+## [Jay's Custom Keyboard Build Project](./Keyboard_Build/)
 ** ** 
 
 
