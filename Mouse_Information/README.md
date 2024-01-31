@@ -89,10 +89,9 @@ Ergonomic mice are designed to provide comfort and reduce strain during long hou
 
 * **HDPE (High-Density Polyethylene)**: HDPE is a lightweight and durable material used for mouse skates. It offers a good balance between glide and control, providing a smooth movement experience.
 
-#### **Glass Skates:**
-> Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces.
+* **Glass Skates**: Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces.
 
-#### **Feel of Different Mouse Skates on Mousepads:**
+## **Feel of Different Mouse Skates on Mousepads:**
 > The feel of mouse skates can vary depending on the material and the type of mousepad being used. Here's how different mouse skates may interact with various mousepad surfaces:
 
 * **Cloth Mousepads**: Cloth mousepads are the most common and widely used type. They offer a good balance between speed and control. When paired with PTFE or POM mouse skates, users can experience smooth gliding movements with precise control. The skates effortlessly glide over the cloth surface, providing optimal tracking.
@@ -113,11 +112,15 @@ Ergonomic mice are designed to provide comfort and reduce strain during long hou
 
 - **DPI (Dots Per Inch):** DPI refers to the sensitivity of the mouse. Higher DPI settings allow for faster cursor movements. Gaming mice often offer adjustable DPI settings for precise control.
 
-- **Building Your Own Mouse:** Some companies provide the option to build your own mouse, allowing you to customize the shape, size, weight, and even button placement to fit your specific needs and preferences.
+- **Building Your Own Mouse:** 
+> Some companies provide the option to build your own mouse, allowing you to customize the shape, size, weight, and even button placement to fit your specific needs and preferences.
 
-- **Wired vs. Bluetooth:** Mice can be either wired or wireless (Bluetooth). Wired mice offer a reliable connection and do not require batteries, but the cable can limit movement. Bluetooth mice provide more freedom but may have a slight delay and require periodic battery changes or recharging.
+- **Wired vs. Bluetooth:** 
+> Mice can be either wired or wireless (Bluetooth). Wired mice offer a reliable connection and do not require batteries, but the cable can limit movement. Bluetooth mice provide more freedom but may have a slight delay and require periodic battery changes or recharging.
 
-Remember to consider your specific needs, such as gaming, office work, or ergonomic requirements, when choosing a computer mouse. Paying attention to the feel, comfort, and functionality of the mouse can greatly enhance your overall computing experience and contribute to the health of your hand and wrist.
+> Remember to consider your specific needs, such as gaming, office work, or ergonomic requirements, when choosing a computer mouse. Paying attention to the feel, comfort, and functionality of the mouse can greatly enhance your overall computing experience and contribute to the health of your hand and wrist.
+
+** ** 
 
 # Mice Products
 
