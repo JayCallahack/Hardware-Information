@@ -5,54 +5,41 @@
 
 ### 1. Optical Mouse
 
-- **Weight:** 
-> Optical mice are generally lightweight and easy to maneuver.
+- **Weight:** Optical mice are generally lightweight and easy to maneuver.
 
-- **Size:** 
-> They come in various sizes, including standard and compact options.
+- **Size:** They come in various sizes, including standard and compact options.
 
-- **Type:** 
-> Optical mice use an LED light to track movement on a flat surface.
+- **Type:** Optical mice use an LED light to track movement on a flat surface.
 
-- **Pros:** 
-> Optical mice are affordable, reliable, and work well on most surfaces. They do not require a mouse pad.
+- **Pros:** Optical mice are affordable, reliable, and work well on most surfaces. They do not require a mouse pad.
 
-- **Cons:** 
-> They may not work accurately on reflective or transparent surfaces.
+- **Cons:** They may not work accurately on reflective or transparent surfaces.
 
 ### 2. Laser Mouse
 
-- **Weight:** 
-> Laser mice are similar in weight to optical mice.
+- **Weight:** Laser mice are similar in weight to optical mice.
 
-- **Size:** 
-> They are available in various sizes, catering to different hand sizes.
+- **Size:** They are available in various sizes, catering to different hand sizes.
 
-- **Type:** 
-> Laser mice use laser technology for precise tracking on different surfaces.
+- **Type:** Laser mice use laser technology for precise tracking on different surfaces.
 
-- **Pros:** 
-> Laser mice offer higher sensitivity and can work on a wider range of surfaces compared to optical mice.
+- **Pros:** Laser mice offer higher sensitivity and can work on a wider range of surfaces compared to optical mice.
 
-- **Cons:** 
-> They tend to be more expensive and may consume more power.
+- **Cons:** They tend to be more expensive and may consume more power.
 
 ### 3. Trackball Mouse
 
-- **Weight:** 
-> Trackball mice are typically heavier due to the built-in trackball mechanism.
+- **Weight:** Trackball mice are typically heavier due to the built-in trackball mechanism.
 
-- **Size:** 
-> They come in various sizes, including compact options.
+- **Size:** They come in various sizes, including compact options.
 
-- **Type:** 
-> Trackball mice have a stationary ball on top that is controlled by the thumb or fingers.
+- **Type:** Trackball mice have a stationary ball on top that is controlled by the thumb or fingers.
 
-- **Pros:** 
-> Trackball mice require less physical movement, making them suitable for limited desk space or people with mobility issues.
+- **Pros:** Trackball mice require less physical movement, making them suitable for limited desk space or people with mobility issues.
 
-- **Cons:** 
-> They may take time to get used to, and the ball may require occasional cleaning.
+- **Cons:** They may take time to get used to, and the ball may require occasional cleaning.
+
+** ** 
 
 ### Videos:
 > [The Ploopy Trackball(s)](https://youtu.be/JczNHT_2uHA?si=VuqRhx1uJIG2RTxy)
