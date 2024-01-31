@@ -70,8 +70,8 @@ Gaming mice are designed specifically for gamers, offering additional features a
 * [Making my Dream Gaming Mouse](https://www.youtube.com/watch?v=xvz8KjCpdLE)
 * [Beast X Mouse Review](https://youtu.be/E0BkJjS26Fk?si=uohElE4_UYfjjdoQ)
 
+ 
 ## Ergonomic Mice
-
 Ergonomic mice are designed to provide comfort and reduce strain during long hours of computer use.
 
 - **Weight:** 
@@ -107,8 +107,9 @@ Mouse skates, also known as mouse feet, are the small pads or gliders attached t
 * **Glass Skates**: 
 > Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces.
 
+ 
 ## **Feel of Different Mouse Skates on Mousepads:**
-> The feel of mouse skates can vary depending on the material and the type of mousepad being used. Here's how different mouse skates may interact with various mousepad surfaces:
+The feel of mouse skates can vary depending on the material and the type of mousepad being used. Here's how different mouse skates may interact with various mousepad surfaces:
 
 * **Cloth Mousepads**: 
 > Cloth mousepads are the most common and widely used type. They offer a good balance between speed and control. When paired with PTFE or POM mouse skates, users can experience smooth gliding movements with precise control. The skates effortlessly glide over the cloth surface, providing optimal tracking.
@@ -123,7 +124,7 @@ Mouse skates, also known as mouse feet, are the small pads or gliders attached t
 ## Importance of Choosing the Right Mouse
 
 - **Comfort and Health:** 
-Paying attention to the mouse you buy is crucial for the comfort and health of your hand. A poorly designed or uncomfortable mouse can lead to discomfort, fatigue, and even long-term health issues like carpal tunnel syndrome.
+> Paying attention to the mouse you buy is crucial for the comfort and health of your hand. A poorly designed or uncomfortable mouse can lead to discomfort, fatigue, and even long-term health issues like carpal tunnel syndrome.
 
 - **Customization:** 
 > Some companies offer software and customization options for their mice, allowing you to personalize button assignments, sensitivity levels, and lighting effects to suit your preferences.
