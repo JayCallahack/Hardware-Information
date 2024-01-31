@@ -1,5 +1,6 @@
 # Types of Computer Mice
 Computer mice come in various types, each offering different features and functionalities tailored to specific needs. Understanding the different types and their pros and cons is important when choosing the right mouse for your computing needs.
+ 
 
 ## Common Types of Mice
 
@@ -87,6 +88,7 @@ Ergonomic mice are designed to provide comfort and reduce strain during long hou
 
 - **Cons:** 
 > They may take time to adjust to, and some models may be bulkier than traditional mice.
+ 
 
 ### Videos:
 
@@ -117,6 +119,7 @@ Mouse skates, also known as mouse feet, are the small pads or gliders attached t
 * **Glass Mousepads**: 
 > Glass mousepads provide a unique surface for mouse movement. When using specialized glass skates, users can achieve precise and controlled movements on these smooth surfaces. Glass skates are designed to offer high friction on glass mousepads, allowing for accurate tracking and reduced slippage.
 
+  
 ## Importance of Choosing the Right Mouse
 
 - **Comfort and Health:** 
@@ -143,7 +146,8 @@ Paying attention to the mouse you buy is crucial for the comfort and health of y
 Remember to consider your specific needs, such as gaming, office work, or ergonomic requirements, when choosing a computer mouse. Paying attention to the feel, comfort, and functionality of the mouse can greatly enhance your overall computing experience and contribute to the health of your hand and wrist.
 
 ** ** 
-
+ 
+ 
 # Mice Products
 
 |                               **Productivity (Wired)**                               |                            **Productivity (Wireless)**                           | **Lightweight (Wired)** |                                                    **Lightweight (Wireless)**                                                   |                             **Custom Mice**                             |
