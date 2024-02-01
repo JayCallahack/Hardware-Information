@@ -105,7 +105,7 @@ Mouse skates, also known as mouse feet, are the small pads or gliders attached t
 > HDPE is a lightweight and durable material used for mouse skates. It offers a good balance between glide and control, providing a smooth movement experience.
 
 * **Glass & Saphire Skates**: 
-> Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces.
+> Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces. Note that these skates should not be used on any hard surfaces, or hard mousepads.
 
 Skate Comapnies:
 * [SAPPHIRESKATES](https://sapphireskates.com)
@@ -122,7 +122,7 @@ The feel of mouse skates can vary depending on the material and the type of mous
 > Hard mousepads, usually made of plastic or aluminum, offer a smooth and consistent surface. When combined with PTFE or HDPE mouse skates, users can expect a fast and effortless glide. The skates make minimal contact with the hard surface, resulting in reduced friction and quick movements.
 
 * **Glass Mousepads**: 
-> Glass mousepads provide a unique surface for mouse movement. When using specialized glass skates, users can achieve precise and controlled movements on these smooth surfaces. Glass skates are designed to offer high friction on glass mousepads, allowing for accurate tracking and reduced slippage.
+> Glass mousepads provide a unique surface for mouse movement. When using specialized glass skates, users can achieve precise and controlled movements on these smooth surfaces. Glass skates are designed to offer high friction on glass mousepads, allowing for accurate tracking and reduced slippage. Be careful though, using glass or saphire skates can easily ruin your glass mousepad, and does not make for a good expirance.
 
   
 ## Importance of Choosing the Right Mouse
