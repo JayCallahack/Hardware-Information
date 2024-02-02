@@ -63,6 +63,7 @@ Intergrated Graphics (No Graphics Card)
 * [Memory Choice 2] - [G.SKILL Ripjaws V Series](https://www.newegg.com/g-skill-16gb-288-pin-ddr4-sdram/p/N82E16820231941)
 * [Memory Choice 3] - [CORSAIR Vengeance LPX](https://www.newegg.com/corsair-16gb-288-pin-ddr4-sdram/p/N82E16820236538)
 
+<a href="https://ca.pcpartpicker.com/list/7jcXsL" target="_blank">PC Part Picker</a>
 
 ## Overwatch (Moderatly Budget Friendly)
 
