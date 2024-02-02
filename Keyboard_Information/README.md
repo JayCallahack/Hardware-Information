@@ -40,7 +40,7 @@
 * __Tactile:__ Provide a tactile bump to indicate key actuation, generally less noisy and less of a tactile feel then clicky switches. Examples include Cherry <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">MX Brown</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Brown</a>.
 * __Clicky:__ Offer both tactile feedback and an audible click sound, generally they give more strong tactile feel then tacktile switches. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Blue</a> and <a href="https://www.youtube.com/shorts/KzxUIQKw9EI" target="_blank">Kailh Box White</a>.
 
-For more nuanced information about switches, click <a href="./Keyboard_Switches_Information/" target="_blank">here</a>.
+For more nuanced information about switches, click <a href="https://jaycallahack.github.io/Hardware-Information/Keyboard_Switches_Information/" target="_blank">here</a>.
 
 ## **Low profile keyboards:**
  > These keyboards feature a thinner profile and shorter key travel distance, resulting in a sleeker design and potentially quieter typing experience. Examples include the <a href="https://www.youtube.com/watch?v=mZuTxsJ7s1I" target="_blank">Keychron K1</a> and <a href="https://www.youtube.com/watch?v=DvZQS0mMcVM" target="_blank">Logitech G915</a>.
