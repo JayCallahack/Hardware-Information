@@ -50,7 +50,7 @@ Computer mice come in various types, each offering different features and functi
 Gaming mice are designed specifically for gamers, offering additional features and customization options.
 
 - **Weight:** 
-> Gaming mice often have adjustable weights to cater to individual preferences.
+> Some gaming mice have adjustable weights to cater to individual preferences.
 
 - **Size:** 
 > They come in various sizes, including options for different grip styles.
