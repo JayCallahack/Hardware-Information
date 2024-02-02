@@ -43,7 +43,7 @@ Computer mice come in various types, each offering different features and functi
 ** ** 
 
 ### Videos:
-> [The Ploopy Trackball(s)](https://youtu.be/JczNHT_2uHA?si=VuqRhx1uJIG2RTxy)
+> <a href="https://youtu.be/JczNHT_2uHA?si=VuqRhx1uJIG2RTxy" target="_blank">The Ploopy Trackball(s)</a>
 
 ## Gaming Mice
 
@@ -65,12 +65,11 @@ Gaming mice are designed specifically for gamers, offering additional features a
 > Gaming mice can be more expensive than regular mice, and some models may have a steeper learning curve.
 
 ### Videos:
-* [G Pro X SUPERLIGHT 37 gram mod](https://www.youtube.com/watch?v=BQThu5b5hR8&list=LL&index=7)
-* [Gravastar Mercury M2 Unboxing and First Impressions](https://www.youtube.com/watch?v=h9ZLYn_dgjg)
-* [Making my Dream Gaming Mouse](https://www.youtube.com/watch?v=xvz8KjCpdLE)
-* [Beast X Mouse Review](https://youtu.be/E0BkJjS26Fk?si=uohElE4_UYfjjdoQ)
+* <a href="https://www.youtube.com/watch?v=BQThu5b5hR8&list=LL&index=7" target="_blank">G Pro X SUPERLIGHT 37 gram mod</a>
+* <a href="https://www.youtube.com/watch?v=h9ZLYn_dgjg" target="_blank">Gravastar Mercury M2 Unboxing and First Impressions</a>
+* <a href="https://www.youtube.com/watch?v=xvz8KjCpdLE" target="_blank">Making my Dream Gaming Mouse</a>
+* <a href="https://youtu.be/E0BkJjS26Fk?si=uohElE4_UYfjjdoQ" target="_blank">Beast X Mouse Review</a>
 
- 
 ## Ergonomic Mice
 Ergonomic mice are designed to provide comfort and reduce strain during long hours of computer use.
 
@@ -108,10 +107,9 @@ Mouse skates, also known as mouse feet, are the small pads or gliders attached t
 > Glass skates, as the name suggests, are mouse skates made specifically for glass or other smooth surfaces. These skates are designed to provide optimal tracking and control on glass mousepads, which are becoming increasingly popular among gamers. Glass skates are typically made of a specialized material that offers high friction, allowing for precise movements and reduced slippage on glass surfaces. Note that these skates should not be used on any hard surfaces, or hard mousepads.
 
 Skate Comapnies:
-* [SAPPHIRESKATES](https://sapphireskates.com)
-* [Pular SuperGlide](https://www.pulsar.gg/collections/superglide)
+* <a href="https://sapphireskates.com" target="_blank">SAPPHIRESKATES</a>
+* <a href="https://www.pulsar.gg/collections/superglide" target="_blank">Pular SuperGlided</a>
 
- 
 ## **Feel of Different Mouse Skates on Mousepads:**
 The feel of mouse skates can vary depending on the material and the type of mousepad being used. Here's how different mouse skates may interact with various mousepad surfaces:
 

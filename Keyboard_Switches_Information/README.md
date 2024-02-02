@@ -8,19 +8,21 @@ Switch lube comes in various types, each with its own characteristics and effect
 
 ### 1. Thin Lube
 
-Thin lube, such as [Krytox GPL 205g0](https://divinikey.com/products/205-grade-0-switch-lubricant) or [Tribosys 3204](https://divinikey.com/products/tribosys-3204-switch-lubricant?_pos=1&_sid=944c5b261&_ss=r), is used to reduce friction and smooth out the switch's movement. It is applied to the switch housing rails, stem legs, and contact points. Thin lube is ideal for linear switches, as it can make them feel even smoother.
+Thin lube, such as <a href="https://divinikey.com/products/205-grade-0-switch-lubricant" target="_blank">Krytox GPL 205g0</a> or <a href="https://divinikey.com/products/tribosys-3204-switch-lubricant?_pos=1&_sid=944c5b261&_ss=r" target="_blank">Tribosys 3204</a>, is used to reduce friction and smooth out the switch's movement. It is applied to the switch housing rails, stem legs, and contact points. Thin lube is ideal for linear switches, as it can make them feel even smoother.
 
 ### 2. Thick Lube
 
-Thick lube, like [Krytox GPL 205g2](https://keebcats.co.uk/products/krytox-gpl-205g2?shpxid=1f548170-f1ed-46b0-b860-60eb06a748b2) or [Tribosys 3203](https://divinikey.com/products/tribosys-3203-switch-lubricant?_pos=1&_sid=4d48f1a7c&_ss=r), provides more dampening and is suitable for tactile switches. It is applied to the switch's tactile legs and contact points to enhance the tactile bump while reducing any potential scratchiness.
+Thick lube, like <a href="https://divinikey.com/products/205-grade-0-switch-lubricant" target="_blank">Krytox GPL 205g0</a> or <a href="https://divinikey.com/products/tribosys-3203-switch-lubricant?_pos=1&_sid=4d48f1a7c&_ss=r" target="_blank">Tribosys 3203</a>, provides more dampening and is suitable for tactile switches. It is applied to the switch's tactile legs and contact points to enhance the tactile bump while reducing any potential scratchiness.
 
 ### 3. Dielectric Grease
 
-Dielectric grease, such as [Super Lube](https://www.homedepot.ca/product/superlube-3-oz-tube-silicone-hi-dielectric-vacuum-grease/1000735861) or [Permatex Dielectric Tune-Up Grease](https://www.permatex.com/products/lubricants/speciality-lubricants/permatex-dielectric-tune-up-grease-3-oz/), is a silicone-based lubricant commonly used for stabilizers. It helps reduce rattle and stabilizer noise by providing a smoother and quieter operation.
+Dielectric grease, such as <a href="https://www.homedepot.ca/product/superlube-3-oz-tube-silicone-hi-dielectric-vacuum-grease/1000735861" target="_blank">Super Lube</a>
+ or <a href="https://www.permatex.com/products/lubricants/speciality-lubricants/permatex-dielectric-tune-up-grease-3-oz/" target="_blank">Permatex Dielectric Tune-Up Grease</a>
+, is a silicone-based lubricant commonly used for stabilizers. It helps reduce rattle and stabilizer noise by providing a smoother and quieter operation.
 
 ### 4. Switch Films
 
-Switch films, such as [TX Films](https://divinikey.com/products/tx-switch-films?_pos=1&_sid=c20a6e6e7&_ss=r) or [Kebo Films](https://kebo.store/products/switch-films), are thin plastic sheets that can be placed inside the switch housing. They help reduce wobble and stabilize the switch's components, resulting in a more consistent and satisfying typing experience.
+Switch films, such as <a href="https://divinikey.com/products/tx-switch-films?_pos=1&_sid=c20a6e6e7&_ss=r" target="_blank">TX Films</a> or <a href="https://kebo.store/products/switch-films" target="_blank">Kebo Films</a>, are thin plastic sheets that can be placed inside the switch housing. They help reduce wobble and stabilize the switch's components, resulting in a more consistent and satisfying typing experience.
 
 ## Popular Switch Sound Modifications
 
@@ -37,13 +39,13 @@ Lubing can also alter the sound profile of a mechanical keyboard switch. Here ar
 ## Videos:
 > I tried to order all the videos listed below to help slowly build your understanding of on picking seitches that you may like, then being able to proper lube them to your preferane.
 
-* [Beginner's Guide to Keyboard Switches](https://www.youtube.com/watch?v=KgdpGTxVfTs)
-* [Picking Switches](https://www.youtube.com/watch?v=-Ln9rA_usoY)
-* [Hot-Swappable Switches?](https://www.youtube.com/watch?v=kS7DgeasSu0)
-* [Switch Pullers](https://www.youtube.com/watch?v=-LZRjJ8e1RU)
-* [Testing Different Amounts Of Lube](https://www.youtube.com/watch?v=EAW_vD0BzgM&list=LL&index=8)
-* [Lubing Switches](https://www.youtube.com/watch?v=b1acqEoW8ws)
-* [Custom Frankenswiches](https://www.youtube.com/watch?v=jU7TDvSgmI4)
+* <a href="https://www.youtube.com/watch?v=KgdpGTxVfTs" target="_blank">Beginner's Guide to Keyboard Switches</a>
+* <a href="https://www.youtube.com/watch?v=-Ln9rA_usoY" target="_blank">Picking Switches</a>
+* <a href="https://www.youtube.com/watch?v=kS7DgeasSu0" target="_blank">Hot-Swappable Switches?</a>
+* <a href="https://www.youtube.com/watch?v=-LZRjJ8e1RU" target="_blank">Switch Pullers</a>
+* <a href="https://www.youtube.com/watch?v=EAW_vD0BzgM&list=LL&index=8" target="_blank">Testing Different Amounts Of Lube</a>
+* <a href="https://www.youtube.com/watch?v=b1acqEoW8ws" target="_blank">Lubing Switches</a>
+* <a href="https://www.youtube.com/watch?v=jU7TDvSgmI4" target="_blank">Custom Frankenswiches</a>
 
 ## How to Properly Lube a Switch
 

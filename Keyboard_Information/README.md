@@ -1,9 +1,10 @@
 # Keyboards:
 
 ## **Sizes: Mechanical keyboards come in different sizes:**
-* [Full-size:](https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png) This is the standard layout with a number pad. 
-* [Tenkeyless (TKL):](https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png) This layout removes the number pad for a more compact design.
-* [60%:](https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png) This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
+* <a href="https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png" target="_blank">Full-size:</a> This is the standard layout with a number pad. 
+* <a href="https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png" target="_blank">Tenkeyless (TKL):</a> This layout removes the number pad for a more compact design.
+* <a href="https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png" target="_blank">60%:</a> This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
+* <a href="https://www.keebtalk.com/uploads/db8059/original/3X/3/0/30ad82d14378584949b1aadc8764d6a3fdc148ae.png" target="_blank">Split:</a> This layout allows for a more natural typing angles, and comes in many shapes and sizes.
 
 ## **Physical Key Layouts**
 ### **Staggered Layout:**
@@ -23,7 +24,7 @@
 * Columnar Staggered Layout: Columnar staggered layouts are primarily seen on ergonomic keyboards designed for improved comfort and typing efficiency. These keyboards are typically customizable and programmable, allowing users to tailor the layout to their specific needs. Examples include the Ergodox EZ and the Keyboardio Model 01.
 
 ## **Ergonomics:**
->  Ergonomic keyboards are designed to provide comfort and reduce strain. They may feature [split layouts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvoltcave.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fdantambok-superme-mechanical-keyboard.jpg&f=1&nofb=1&ipt=7db6e420911c128b97cab2f959ee324f849a2266c532341aa565288e14fb8ce8&ipo=images), [angled designs](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.boundlessat.com%2Fcore%2Fmedia%2Fmedia.nl%3Fid%3D1195799%26c%3D1281905%26h%3D9adcffe9783e3e69ae8b&f=1&nofb=1&ipt=9f591fc76a8fd69684ef10b729f12a53646a06d4b8005a487a1e47ca070390a2&ipo=images), or [curved key layouts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbastardkb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FIMG_0535_transparent-1024x768.png&f=1&nofb=1&ipt=50815142fafb81fe30c24901f38ef7d5a717e98a2943f5d8ff1e80f6a1744f3d&ipo=images) that promote a more natural hand position.
+>  Ergonomic keyboards are designed to provide comfort and reduce strain. They may feature <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvoltcave.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fdantambok-superme-mechanical-keyboard.jpg&f=1&nofb=1&ipt=7db6e420911c128b97cab2f959ee324f849a2266c532341aa565288e14fb8ce8&ipo=images" target="_blank">split layouts</a>, <a href="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.boundlessat.com%2Fcore%2Fmedia%2Fmedia.nl%3Fid%3D1195799%26c%3D1281905%26h%3D9adcffe9783e3e69ae8b&f=1&nofb=1&ipt=9f591fc76a8fd69684ef10b729f12a53646a06d4b8005a487a1e47ca070390a2&ipo=images" target="_blank">angled designs (Tenting)</a>, or <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbastardkb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FIMG_0535_transparent-1024x768.png&f=1&nofb=1&ipt=50815142fafb81fe30c24901f38ef7d5a717e98a2943f5d8ff1e80f6a1744f3d&ipo=images" target="_blank">curved key layouts</a> that promote a more natural hand position.
 
 ## **Split keyboards:**
 > Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
@@ -35,30 +36,28 @@
 ## **Switches:**
 > Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
 
-* __Linear:__ Smooth keystrokes without tactile feedback. Examples include [Cherry MX Red](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Yellow](https://www.youtube.com/shorts/9PxmoIKHGeg).
-* __Tactile:__ Provide a tactile bump to indicate key actuation. Examples include Cherry [MX Brown](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Gateron Brown](https://www.youtube.com/shorts/9PxmoIKHGeg).
-Clicky: Offer both tactile feedback and an audible click sound. Examples include [Cherry MX Blue](https://www.youtube.com/shorts/VWSCTktPIZ4) and [Kailh Box White](https://www.youtube.com/shorts/KzxUIQKw9EI).
+* __Linear:__ Smooth keystrokes without tactile feedback. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Red</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Yellow</a>.
+* __Tactile:__ Provide a tactile bump to indicate key actuation. Examples include Cherry <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">MX Brown</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Brown</a>.
+Clicky: Offer both tactile feedback and an audible click sound. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Blue</a> and <a href="https://www.youtube.com/shorts/KzxUIQKw9EI" target="_blank">Kailh Box White</a>.
 
-For more nuanced information about switches, click [here](./Keyboard_Switches_Information/).
+For more nuanced information about switches, click <a href="./Keyboard_Switches_Information/" target="_blank">here</a>.
 
 ## **Low profile keyboards:**
- > These keyboards feature a thinner profile and shorter key travel distance, resulting in a sleeker design and potentially quieter typing experience. Examples include the [Keychron K1](https://www.youtube.com/watch?v=mZuTxsJ7s1I) and [Logitech G915](https://www.youtube.com/watch?v=DvZQS0mMcVM).
+ > These keyboards feature a thinner profile and shorter key travel distance, resulting in a sleeker design and potentially quieter typing experience. Examples include the <a href="https://www.youtube.com/watch?v=mZuTxsJ7s1I" target="_blank">Keychron K1</a> and <a href="https://www.youtube.com/watch?v=DvZQS0mMcVM" target="_blank">Logitech G915</a>.
 
 ## **Keycaps:**
- > Keycaps can be made from various materials like ABS plastic, PBT plastic, or even custom materials like metal. Different keycap profiles, such as OEM, Cherry, or SA, offer different shapes and heights, affecting the typing experience and ergonomics. Keycaps can also be customized with different colors, designs, or even [artisan keycaps](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images) for aesthetic purposes.
+ > Keycaps can be made from various materials like ABS plastic, PBT plastic, or even custom materials like metal. Different keycap profiles, such as OEM, Cherry, or SA, offer different shapes and heights, affecting the typing experience and ergonomics. Keycaps can also be customized with different colors, designs, or even <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images" target="_blank">artisan keycaps</a> for aesthetic purposes.
 
 ## __Videos:__
 > I tried to order all the videos listed below to help slowly build your understanding of keyboards, and the different sounds and shapes they come in. The (*) marks videos of keyboards that I personally am really drawn towards, and see that have allot of use, and very unique, or just plain cool.
 
-* [Keyboard 2022 Completion](https://www.youtube.com/watch?v=AcSkjCB8nHM)
-* [Keyboard 2023 Completion](https://www.youtube.com/shorts/9S0RaSDihS4)
-* [Akko V3 Cream Yellow Switches](https://www.youtube.com/watch?v=a3BnB3wBEZ8&list=LL&index=3)
-* [Ergonomic Keyboards](https://www.youtube.com/watch?v=UAjCgaP_jNw)
-* [The Charybdis Wireless Keyboard](https://youtu.be/Mks7QDxFreY?si=GdyLODKucMJCP73d) * 
-* [The TOTEM Wireless Keyboard](https://youtu.be/YwsutNf1WRA?si=_QrOWRmfXWBkfBJk)
-* [The Wireless Corne Keyboard](https://www.youtube.com/watch?v=hXohJwatIpA)
-
-
+* <a href="https://www.youtube.com/watch?v=AcSkjCB8nHM" target="_blank">Keyboard 2022 Completion</a>
+* <a href="https://www.youtube.com/shorts/9S0RaSDihS4" target="_blank">Keyboard 2023 Completion</a>
+* <a href="https://www.youtube.com/watch?v=a3BnB3wBEZ8&list=LL&index=3" target="_blank">Akko V3 Cream Yellow Switches</a>
+* <a href="https://www.youtube.com/watch?v=UAjCgaP_jNw" target="_blank">Ergonomic Keyboards</a>
+* <a href="https://youtu.be/Mks7QDxFreY?si=GdyLODKucMJCP73d" target="_blank">The Charybdis Wireless Keyboard</a>
+* <a href="https://youtu.be/YwsutNf1WRA?si=_QrOWRmfXWBkfBJk" target="_blank">The TOTEM Wireless Keyboard</a>
+* <a href="https://www.youtube.com/watch?v=hXohJwatIpA" target="_blank">The Wireless Corne Keyboard</a>
 
 # **Budget Options (Less Then $100):**
 
