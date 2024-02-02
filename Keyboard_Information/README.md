@@ -37,8 +37,8 @@
 > Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
 
 * __Linear:__ Smooth keystrokes without tactile feedback. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Red</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Yellow</a>.
-* __Tactile:__ Provide a tactile bump to indicate key actuation. Examples include Cherry <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">MX Brown</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Brown</a>.
-Clicky: Offer both tactile feedback and an audible click sound. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Blue</a> and <a href="https://www.youtube.com/shorts/KzxUIQKw9EI" target="_blank">Kailh Box White</a>.
+* __Tactile:__ Provide a tactile bump to indicate key actuation, generally less noisy and less of a tactile feel then clicky switches. Examples include Cherry <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">MX Brown</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Brown</a>.
+* __Clicky:__ Offer both tactile feedback and an audible click sound, generally they give more strong tactile feel then tacktile switches. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Blue</a> and <a href="https://www.youtube.com/shorts/KzxUIQKw9EI" target="_blank">Kailh Box White</a>.
 
 For more nuanced information about switches, click <a href="./Keyboard_Switches_Information/" target="_blank">here</a>.
 
