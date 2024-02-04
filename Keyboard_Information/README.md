@@ -35,9 +35,13 @@
 ## **Split keyboards:**
 > Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
 
+** ** 
+
 ## **Connectivity options:**
 * __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
 * __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
+
+** ** 
 
 ## **Switches:**
 > Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
@@ -48,11 +52,17 @@
 
 For more nuanced information about switches, click <a href="https://jaycallahack.github.io/Hardware-Information/Keyboard_Switches_Information/" target="_blank">here</a>.
 
+** ** 
+
 ## **Low profile keyboards:**
  > These keyboards feature a thinner profile and shorter key travel distance, resulting in a sleeker design and potentially quieter typing experience. Examples include the <a href="https://www.youtube.com/watch?v=mZuTxsJ7s1I" target="_blank">Keychron K1</a> and <a href="https://www.youtube.com/watch?v=DvZQS0mMcVM" target="_blank">Logitech G915</a>.
 
+** ** 
+
 ## **Keycaps:**
  > Keycaps can be made from various materials like ABS plastic, PBT plastic, or even custom materials like metal. Different keycap profiles, such as OEM, Cherry, or SA, offer different shapes and heights, affecting the typing experience and ergonomics. Keycaps can also be customized with different colors, designs, or even <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images" target="_blank">artisan keycaps</a> for aesthetic purposes.
+
+** ** 
 
 ## __Videos:__
 > I tried to order all the videos listed below to help slowly build your understanding of keyboards, and the different sounds and shapes they come in. The (*) marks videos of keyboards that I personally am really drawn towards, and see that have allot of use, and very unique, or just plain cool.
@@ -64,6 +74,8 @@ For more nuanced information about switches, click <a href="https://jaycallahack
 * <a href="https://youtu.be/Mks7QDxFreY?si=GdyLODKucMJCP73d" target="_blank">The Charybdis Wireless Keyboard</a>
 * <a href="https://youtu.be/YwsutNf1WRA?si=_QrOWRmfXWBkfBJk" target="_blank">The TOTEM Wireless Keyboard</a>
 * <a href="https://www.youtube.com/watch?v=hXohJwatIpA" target="_blank">The Wireless Corne Keyboard</a>
+
+** ** 
 
 # **Budget Options (Less Then $100):**
 
