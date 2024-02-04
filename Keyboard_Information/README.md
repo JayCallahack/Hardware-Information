@@ -6,6 +6,8 @@
 * <a href="https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png" target="_blank">60%:</a> This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
 * <a href="https://www.keebtalk.com/uploads/db8059/original/3X/3/0/30ad82d14378584949b1aadc8764d6a3fdc148ae.png" target="_blank">Split:</a> This layout allows for a more natural typing angles, and comes in many shapes and sizes.
 
+** ** 
+
 ## **Physical Key Layouts**
 ### **Staggered Layout:**
 > The staggered layout is the most common and widely used keyboard layout. It features keys that are arranged in a staggered pattern, where each row is slightly offset from the row above or below it. This layout follows the traditional typewriter design and is commonly seen on standard keyboards, including QWERTY and AZERTY layouts. Staggered layouts are found on most mainstream keyboards and cater to a wide range of users, including typists, gamers, and general computer users.
@@ -23,8 +25,12 @@
 
 * Columnar Staggered Layout: Columnar staggered layouts are primarily seen on ergonomic keyboards designed for improved comfort and typing efficiency. These keyboards are typically customizable and programmable, allowing users to tailor the layout to their specific needs. Examples include the Ergodox EZ and the Keyboardio Model 01.
 
+** ** 
+
 ## **Ergonomics:**
 >  Ergonomic keyboards are designed to provide comfort and reduce strain. They may feature <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvoltcave.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fdantambok-superme-mechanical-keyboard.jpg&f=1&nofb=1&ipt=7db6e420911c128b97cab2f959ee324f849a2266c532341aa565288e14fb8ce8&ipo=images" target="_blank">split layouts</a>, <a href="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.boundlessat.com%2Fcore%2Fmedia%2Fmedia.nl%3Fid%3D1195799%26c%3D1281905%26h%3D9adcffe9783e3e69ae8b&f=1&nofb=1&ipt=9f591fc76a8fd69684ef10b729f12a53646a06d4b8005a487a1e47ca070390a2&ipo=images" target="_blank">angled designs (Tenting)</a>, or <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbastardkb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FIMG_0535_transparent-1024x768.png&f=1&nofb=1&ipt=50815142fafb81fe30c24901f38ef7d5a717e98a2943f5d8ff1e80f6a1744f3d&ipo=images" target="_blank">curved key layouts</a> that promote a more natural hand position.
+
+** ** 
 
 ## **Split keyboards:**
 > Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
