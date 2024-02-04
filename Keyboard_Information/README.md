@@ -19,11 +19,11 @@
 > The columnar staggered layout is a hybrid between the ortholinear and staggered layouts. It retains the straight vertical alignment of the ortholinear layout but introduces a slight stagger to the columns to better align with the natural position of the fingers. Columnar staggered layouts are designed to optimize finger movement and reduce strain by accommodating the natural angles and reach of the fingers. These layouts are typically found on ergonomic or customizable keyboards that prioritize ergonomic typing experiences and finger comfort.
 
 ### **Regarding the types of keyboards where you are likely to encounter these layouts:**
-* Staggered Layout: Staggered layouts are found on most mainstream keyboards, including laptops, desktop keyboards, and most off-the-shelf mechanical keyboards.
+* **Staggered Layout**: Staggered layouts are found on most mainstream keyboards, including laptops, desktop keyboards, and most off-the-shelf mechanical keyboards.
 
-* Ortholinear Layout: Ortholinear layouts are commonly associated with mechanical keyboards, particularly those that cater to enthusiasts and those seeking a more ergonomic typing experience. They are often found on programmable keyboards or DIY keyboard kits.
+* **Ortholinear Layout**: Ortholinear layouts are commonly associated with mechanical keyboards, particularly those that cater to enthusiasts and those seeking a more ergonomic typing experience. They are often found on programmable keyboards or DIY keyboard kits.
 
-* Columnar Staggered Layout: Columnar staggered layouts are primarily seen on ergonomic keyboards designed for improved comfort and typing efficiency. These keyboards are typically customizable and programmable, allowing users to tailor the layout to their specific needs. Examples include the Ergodox EZ and the Keyboardio Model 01.
+* **Columnar Staggered Layout**: Columnar staggered layouts are primarily seen on ergonomic keyboards designed for improved comfort and typing efficiency. These keyboards are typically customizable and programmable, allowing users to tailor the layout to their specific needs. Examples include the Ergodox EZ and the Keyboardio Model 01.
 
 ** ** 
 
