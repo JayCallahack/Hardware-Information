@@ -103,10 +103,10 @@ Intergrated Graphics (No Graphics Card)
 
 # Jay's Dream PC (Thoughts)
 * Custom Compact Case With <a href="https://img.youtube.com/vi/cehXZftIYok/maxresdefault.jpg" target="_blank">Custom 3D Printer Air Cooling Tunnels</a>
-* [Motherboard] - <a href="https://www.ebay.ca/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=ASUS+ROG+Strix+Z590-I+Gaming+WiFi&_sacat=0" target="_blank">ASUS ROG Strix Z590-I Gaming WiFi</a>
+* [Motherboard] - <a href="https://rog.asus.com/ca-en/motherboards/rog-strix/rog-strix-z590-i-gaming-wifi-model/spec/" target="_blank">ASUS ROG Strix Z590-I Gaming WiFi</a>
 * [GPU] - <a href="https://www.ebay.ca/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=ZOTAC+GAMING+GeForce+RTX+3060+Twin+Edge+OC+LHR&_sacat=0" target="_blank">ZOTAC GAMING GeForce RTX 3060 Twin Edge OC LHR</a>
 * [RAM] - <a href="https://www.newegg.ca/team-16gb-288-pin-ddr4-sdram/p/N82E16820331616?item=N82E16820331616&source=region&nm_mc=knc-googleadwordsca-pc&cm_mmc=knc-googleadwordsca-pc-_-pla-_-memory+%28desktop+memory%29-_-N82E16820331616&utm_source=google&utm_medium=paid+shopping&utm_campaign=knc-googleadwordsca-pc-_-pla-_-memory+%28desktop+memory%29-_-N82E16820331616&id0=Google&id1=12407115758&id2=117795429323&id3=&id4=&id5=pla-1700466932055&id6=&id7=9001353&id8=&id9=g&id10=c&id11=&id12=Cj0KCQiA5rGuBhCnARIsAN11vgRoZZnke_1CBo3_p5zmZDSmeQs9D1tHTmMWAPt3dRKUUe71NleSc-kaAmidEALw_wcB&id13=&id14=Y&id15=&id16=500455654267&id17=&id18=&id19=&id20=&id21=pla&id22=102503995&id23=online&id24=N82E16820331616&id25=CA&id26=1700466932055&id27=Y&id28=&id29=&id30=4826976949513378782&id31=en&id32=&id33=&id34=&gad_source=1&gclid=Cj0KCQiA5rGuBhCnARIsAN11vgRoZZnke_1CBo3_p5zmZDSmeQs9D1tHTmMWAPt3dRKUUe71NleSc-kaAmidEALw_wcB" target="_blank">Team T-FORCE VULCAN Z 16GB (2 x 8GB) DDR4 3200</a>
-* [SSD] - 2 2TB 
+* [SSD] - 2 8TB 
 * [ODD] - Owned
 * [FDD] - Owned
 
