@@ -17,7 +17,7 @@
 > Find proper bluetooth hardware where I can setup bot a pure bluetooth connection, and a connection to a dongle, that way it can be used with older devices that don't support BT, and also connect to modern devices, including mobile devices if wanted.
 
 ### 3. Switched and Wiring
-> Find some non-keyboard swiches that can be used for power, macros, or other utility options. specifically (Thus far) three-position maintained toggle switches, tiny thumb drive for the firmware, Power button, Potentiometes or Rotary Encoders for volume and LED control. Rotary Switches for choosing BT options, or LED presets, and full metal Push Button Switches with a blue light ring for pairing BT. Then plan out all the wiring and such after I have everything designed and in place where I want it.
+> Find some non-keyboard swiches that can be used for power, macros, or other utility options. specifically (Thus far) three-position maintained toggle switches, tiny thumb drive for the firmware, Power button, Potentiometes or Rotary Encoders for volume and LED control. Rotary Switches for choosing BT options, or LED presets, and full metal Push Button Switches with a blue light ring for pairing BT. Then plan out all the wiring and such after I have everything designed and in place where I want it. Try to use a white or lime green heat shrink tubing for all the wires, to make it look cleaner with the clear shell for the final product.
 
 ### 4. Batteries and Charging
 > Find the proper betteries that I can use, and that will fit in the space, and will last the longest I can get, and try and use USB-C for charging, possibly even wirless sharging?
