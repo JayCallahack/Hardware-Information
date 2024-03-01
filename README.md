@@ -12,6 +12,8 @@
 ** ** 
 ## [Mousepad Information](./Mousepad_Information/)
 ** ** 
+## [3D Printers](./3D_Printers/)
+** ** 
 ## [Monitors](./Monitor_Setup/)
 ** ** 
 ## [PC Builds?](./PC_Builds/)
