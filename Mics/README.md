@@ -22,15 +22,15 @@
 
 ### Pros and Cons Summary:
 
-- __**USB Microphones:**__
+- **USB Microphones:**
   - *Pros:* Plug-and-play, no additional equipment required, suitable for beginners.
   - *Cons:* Limited audio quality and flexibility, prone to interference and latency issues.
 
-- __**Shotgun Microphones:**__
+- **Shotgun Microphones:**
   - *Pros:* Directional pickup pattern, ideal for outdoor and on-location recording.
   - *Cons:* Sensitive to handling noise and wind interference, may struggle with distant sounds.
 
-- __**Lavalier Microphones:**__
+- **Lavalier Microphones:**
   - *Pros:* Hands-free operation, unobtrusive recording, consistent audio quality.
   - *Cons:* Prone to clothing noise, may require additional accessories for mobility.
 
